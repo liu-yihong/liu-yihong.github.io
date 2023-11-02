@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.yihong-liu.com/miscellaneous/index.html</loc>
+    <loc>https://blog.yihong-liu.com/2023/11/02/Crack-the-Academic-Job-Market-Proven-Strategies/</loc>
     
-    <lastmod>2023-10-29</lastmod>
+    <lastmod>2023-11-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://blog.yihong-liu.com/2023/10/21/Crack-the-Academic-Job-Hunt-Code-Insider-Tips/</loc>
     
-    <lastmod>2023-10-22</lastmod>
+    <lastmod>2023-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/miscellaneous/index.html</loc>
+    
+    <lastmod>2023-10-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
