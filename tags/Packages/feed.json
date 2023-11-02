@@ -1,0 +1,22 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yihong Liu's Blog • All posts by \"packages\" tag",
+    "description": "Yihong Liu is a PhD student in the Management Science, Information Systems Concentration at the Naveen Jindal School of Management, UT Dallas.",
+    "home_page_url": "https://blog.yihong-liu.com",
+    "items": [
+        {
+            "id": "https://blog.yihong-liu.com/2020/04/21/Draw-Beautifully-in-Latex-Resources-of-TikZ/",
+            "url": "https://blog.yihong-liu.com/2020/04/21/Draw-Beautifully-in-Latex-Resources-of-TikZ/",
+            "title": "Draw Beautifully in Latex - Resources of PGF/TikZ",
+            "date_published": "2020-04-22T00:42:34.000Z",
+            "content_html": "<blockquote><p><strong>PGF&#x2F;Ti<em>k</em>Z</strong> is a pair of languages for producing vector graphics (e.g., technical illustrations and drawings) from a geometric&#x2F;algebraic description, with standard features including the drawing of points, lines, arrows, paths, circles, ellipses and polygons.</p>\n<footer><strong>Wikipedia</strong><cite><a href=\"https://en.wikipedia.org/wiki/PGF/TikZ\">PGF/TikZ - Wikipedia</a></cite></footer></blockquote>\n\n<p>This post incldues resources of PGF&#x2F;Ti<em>k</em>Z for references.</p>\n<span id=\"more\"></span>\n\n<h1 id=\"PGF-TikZ-Official-Manual\"><a href=\"#PGF-TikZ-Official-Manual\" class=\"headerlink\" title=\"PGF&#x2F;TikZ Official Manual\"></a>PGF&#x2F;Ti<em>k</em>Z Official Manual</h1><ol>\n<li><a href=\"http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf\">PGF&#x2F;Ti<em>k</em>Z Official Manual</a></li>\n</ol>\n<h1 id=\"PGF-TikZ-Books\"><a href=\"#PGF-TikZ-Books\" class=\"headerlink\" title=\"PGF&#x2F;TikZ Books\"></a>PGF&#x2F;Ti<em>k</em>Z Books</h1><ol>\n<li><a href=\"https://www.google.com/books/edition/_/t3ZZDwAAQBAJ?hl=en&gbpv=0\">Ti<em>k</em>Z Cookbook for Diagram in Economics with Step-by-Step Illustration, By Chiu Yu Ko</a></li>\n</ol>\n<h1 id=\"PGF-TikZ-Examples\"><a href=\"#PGF-TikZ-Examples\" class=\"headerlink\" title=\"PGF&#x2F;TikZ Examples\"></a>PGF&#x2F;Ti<em>k</em>Z Examples</h1><ol>\n<li><a href=\"http://texample.net/tikz/examples/\">Examples from texample.net</a></li>\n<li><a href=\"https://sites.google.com/site/kochiuyu/Tikz\">Ti<em>k</em>Z Online Tutorial (old version), by Chiu Yui Ko</a></li>\n<li><a href=\"https://kochiuyu.github.io/tikz/\">Ti<em>k</em>Z Online Tutorial (latest version), by Chiu Yui Ko</a></li>\n</ol>\n<p><a style=\"background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px\" href=\"https://unsplash.com/@kellysikkema?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Download free do whatever you want high-resolution photos from Kelly Sikkema\"><span style=\"display:inline-block;padding:2px 3px\"><svg xmlns=\"http://www.w3.org/2000/svg\" style=\"height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white\" viewBox=\"0 0 32 32\"><title>unsplash-logo</title><path d=\"M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z\"></path></svg></span><span style=\"display:inline-block;padding:2px 3px\">thumbnail by Kelly Sikkema</span></a></p>\n",
+            "tags": [
+                "Ph.D.",
+                "Writing",
+                "Latex",
+                "Packages",
+                "PGF/TikZ"
+            ]
+        }
+    ]
+}

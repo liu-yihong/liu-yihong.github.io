@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Yihong Liu&#39;s Blog • Posts by &#34;writing&#34; category</title>
+        <link>https://blog.yihong-liu.com</link>
+        <description>Yihong Liu is a PhD student in the Management Science, Information Systems Concentration at the Naveen Jindal School of Management, UT Dallas.</description>
+        <language>en</language>
+        <pubDate>Tue, 21 Apr 2020 19:42:34 -0500</pubDate>
+        <lastBuildDate>Tue, 21 Apr 2020 19:42:34 -0500</lastBuildDate>
+        <category>JSOM</category>
+        <category>Ph.D.</category>
+        <category>Notes</category>
+        <category>SQL</category>
+        <category>ITSS3300</category>
+        <category>Writing</category>
+        <category>Latex</category>
+        <category>Packages</category>
+        <category>PGF/TikZ</category>
+        <category>Job</category>
+        <category>Interview Experiences</category>
+        <category>Research</category>
+        <category>MIS</category>
+        <category>IS</category>
+        <category>Management Information Systems</category>
+        <category>Information Systems</category>
+        <category>Conference</category>
+        <category>Calendar</category>
+        <category>Math</category>
+        <category>Preliminary</category>
+        <category>Courses</category>
+        <category>Online Video Community</category>
+        <category>Bilibili</category>
+        <category>Business Model</category>
+        <category>Video Collaboration</category>
+        <category>哔哩哔哩</category>
+        <category>B站</category>
+        <category>商业模型</category>
+        <category>联合投稿</category>
+        <category>Personalized Ranking</category>
+        <category>Implicit Feedback</category>
+        <category>Reading</category>
+        <category>Publications</category>
+        <item>
+            <guid isPermalink="true">https://blog.yihong-liu.com/2020/04/21/Draw-Beautifully-in-Latex-Resources-of-TikZ/</guid>
+            <title>Draw Beautifully in Latex - Resources of PGF/TikZ</title>
+            <link>https://blog.yihong-liu.com/2020/04/21/Draw-Beautifully-in-Latex-Resources-of-TikZ/</link>
+            <category>Ph.D.</category>
+            <category>Writing</category>
+            <category>Latex</category>
+            <category>Packages</category>
+            <category>PGF/TikZ</category>
+            <pubDate>Tue, 21 Apr 2020 19:42:34 -0500</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;PGF&amp;#x2F;Ti&lt;em&gt;k&lt;/em&gt;Z&lt;/strong&gt; is a pair of languages for producing vector graphics (e.g., technical illustrations and drawings) from a geometric&amp;#x2F;algebraic description, with standard features including the drawing of points, lines, arrows, paths, circles, ellipses and polygons.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;Wikipedia&lt;/strong&gt;&lt;cite&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PGF/TikZ&#34;&gt;PGF/TikZ - Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This post incldues resources of PGF&amp;#x2F;Ti&lt;em&gt;k&lt;/em&gt;Z for references.&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;h1 id=&#34;PGF-TikZ-Official-Manual&#34;&gt;&lt;a href=&#34;#PGF-TikZ-Official-Manual&#34; class=&#34;headerlink&#34; title=&#34;PGF&amp;#x2F;TikZ Official Manual&#34;&gt;&lt;/a&gt;PGF&amp;#x2F;Ti&lt;em&gt;k&lt;/em&gt;Z Official Manual&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf&#34;&gt;PGF&amp;#x2F;Ti&lt;em&gt;k&lt;/em&gt;Z Official Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;PGF-TikZ-Books&#34;&gt;&lt;a href=&#34;#PGF-TikZ-Books&#34; class=&#34;headerlink&#34; title=&#34;PGF&amp;#x2F;TikZ Books&#34;&gt;&lt;/a&gt;PGF&amp;#x2F;Ti&lt;em&gt;k&lt;/em&gt;Z Books&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/books/edition/_/t3ZZDwAAQBAJ?hl=en&amp;gbpv=0&#34;&gt;Ti&lt;em&gt;k&lt;/em&gt;Z Cookbook for Diagram in Economics with Step-by-Step Illustration, By Chiu Yu Ko&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;PGF-TikZ-Examples&#34;&gt;&lt;a href=&#34;#PGF-TikZ-Examples&#34; class=&#34;headerlink&#34; title=&#34;PGF&amp;#x2F;TikZ Examples&#34;&gt;&lt;/a&gt;PGF&amp;#x2F;Ti&lt;em&gt;k&lt;/em&gt;Z Examples&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://texample.net/tikz/examples/&#34;&gt;Examples from texample.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/kochiuyu/Tikz&#34;&gt;Ti&lt;em&gt;k&lt;/em&gt;Z Online Tutorial (old version), by Chiu Yui Ko&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kochiuyu.github.io/tikz/&#34;&gt;Ti&lt;em&gt;k&lt;/em&gt;Z Online Tutorial (latest version), by Chiu Yui Ko&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a style=&#34;background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px&#34; href=&#34;https://unsplash.com/@kellysikkema?utm_medium=referral&amp;amp;utm_campaign=photographer-credit&amp;amp;utm_content=creditBadge&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from Kelly Sikkema&#34;&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white&#34; viewBox=&#34;0 0 32 32&#34;&gt;&lt;title&gt;unsplash-logo&lt;/title&gt;&lt;path d=&#34;M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px&#34;&gt;thumbnail by Kelly Sikkema&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

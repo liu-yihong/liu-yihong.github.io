@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.yihong-liu.com</id>
+    <title>Yihong Liu&#39;s Blog • Posts by &#34;publications&#34; tag</title>
+    <link href="https://blog.yihong-liu.com" />
+    <updated>2020-04-22T01:21:43.000Z</updated>
+    <category term="JSOM" />
+    <category term="Ph.D." />
+    <category term="Notes" />
+    <category term="SQL" />
+    <category term="ITSS3300" />
+    <category term="Writing" />
+    <category term="Latex" />
+    <category term="Packages" />
+    <category term="PGF/TikZ" />
+    <category term="Job" />
+    <category term="Interview Experiences" />
+    <category term="Research" />
+    <category term="MIS" />
+    <category term="IS" />
+    <category term="Management Information Systems" />
+    <category term="Information Systems" />
+    <category term="Conference" />
+    <category term="Calendar" />
+    <category term="Math" />
+    <category term="Preliminary" />
+    <category term="Courses" />
+    <category term="Online Video Community" />
+    <category term="Bilibili" />
+    <category term="Business Model" />
+    <category term="Video Collaboration" />
+    <category term="哔哩哔哩" />
+    <category term="B站" />
+    <category term="商业模型" />
+    <category term="联合投稿" />
+    <category term="Personalized Ranking" />
+    <category term="Implicit Feedback" />
+    <category term="Reading" />
+    <category term="Publications" />
+    <entry>
+        <id>https://blog.yihong-liu.com/2020/04/21/Yihong-MIS-Reading-List/</id>
+        <title>Yihong&#39;s MIS Ph.D. Reading List</title>
+        <link rel="alternate" href="https://blog.yihong-liu.com/2020/04/21/Yihong-MIS-Reading-List/"/>
+        <content type="html">&lt;p&gt;What to read as a &lt;strong&gt;Ph.D.&lt;/strong&gt; student major in &lt;em&gt;&lt;strong&gt;Management Information Systems&lt;/strong&gt;&lt;/em&gt;?&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;div class=&#34;notification is-success is-size-6&#34;&gt;
+ &lt;button class=&#34;delete&#34;&gt;&lt;/button&gt;
+ &lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt; KEEP UPDATING &lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A big ratio of papers listed here comes from MIS7420 Seminar in Management Information Systems.&lt;/p&gt;
+&lt;p&gt;Ordered alphabetically, Prof. &lt;a href=&#34;https://jindal.utdallas.edu/faculty/amit-mehra&#34;&gt;Amit Mehra&lt;/a&gt;, &lt;a href=&#34;https://jindal.utdallas.edu/faculty/atanu-lahiri&#34;&gt;Atanu Lahiri&lt;/a&gt;, &lt;a href=&#34;https://jindal.utdallas.edu/faculty/jianqing-chen&#34;&gt;Jianqing Chen&lt;/a&gt;, &lt;a href=&#34;https://jindal.utdallas.edu/faculty/srinivasan-raghunathan&#34;&gt;Srinivasan Raghunathan&lt;/a&gt;, &lt;a href=&#34;https://jindal.utdallas.edu/faculty/sumit-sarkar&#34;&gt;Sumit Sarkar&lt;/a&gt;, &lt;a href=&#34;https://jindal.utdallas.edu/faculty/syam-menon&#34;&gt;Syam Menon&lt;/a&gt;, &lt;a href=&#34;https://jindal.utdallas.edu/faculty/vijay-mookerjee&#34;&gt;Vijay Mookerjee&lt;/a&gt;, &lt;a href=&#34;https://jindal.utdallas.edu/faculty/zhiqiang-zheng&#34;&gt;Zhiqiang Zheng&lt;/a&gt; are in charge of this course and contribute a lot to this list.&lt;/p&gt;
+&lt;p&gt;I want to thank them for creating a diverse topic portfolio which guides me through MIS landscape!&lt;/p&gt;
+&lt;h1 id=&#34;Journals&#34;&gt;&lt;a href=&#34;#Journals&#34; class=&#34;headerlink&#34; title=&#34;Journals&#34;&gt;&lt;/a&gt;Journals&lt;/h1&gt;&lt;hr&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Information Systems Research&lt;/strong&gt;&lt;/em&gt; (ISR) is an author-friendly peer-reviewed journal that publishes the best research in the information systems discipline. Its mission is to advance knowledge about the effective and efficient utilization of information technology by individuals, groups, organizations, society, and nations for the improvement of economic and social welfare.&lt;/p&gt;
+&lt;p&gt;The journal covers a wide variety of phenomena and topics related to the design, management, use, valuation, and impact of information technologies at different levels of analysis. ISR publishes research that examines topics from a wide range of research traditions including cognitive psychology, economics, computer science, operations research, design science, organization theory, organization behavior, sociology, and strategic management.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;INFORMS&lt;/strong&gt;&lt;cite&gt;&lt;a href=&#34;https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research&#34;&gt;www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Management Science&lt;/strong&gt;&lt;/em&gt; is a scholarly journal that publishes scientific research on the practice of management focusing on the problems, interest, and concerns of managers. Within its scope are all aspects of management related to strategy, entrepreneurship, innovation, information technology, and organizations as well as all functional areas of business, such as accounting, finance, marketing, and operations.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;INFORMS&lt;/strong&gt;&lt;cite&gt;&lt;a href=&#34;https://www.informs.org/Publications/INFORMS-Journals/Management-Science&#34;&gt;www.informs.org/Publications/INFORMS-Journals/Management-Science&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The &lt;em&gt;&lt;strong&gt;MIS Quarterly&lt;/strong&gt;&lt;/em&gt;’s trifecta vision is to (1) achieve impact on scholarship and practice as the leading source of novel and accreted IS knowledge, (2) exhibit range in work published with respect to problem domains and stakeholders addressed as well as theoretical and methodological approaches used, and (3) execute effective editorial processes in a timely manner.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;MISQ&lt;/strong&gt;&lt;cite&gt;&lt;a href=&#34;https://www.misq.org/&#34;&gt;www.misq.org&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The UT Dallas’ Naveen Jindal School of Management has created a database to track publications in 24 leading business journals. The database contains titles and author affiliations of papers published in these journals since 1990. The information in the database is used to provide the top 100 business school rankings since 1990 based on the total contributions of faculty.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;UTD24&lt;/strong&gt;&lt;cite&gt;&lt;a href=&#34;https://jindal.utdallas.edu/the-utd-top-100-business-school-research-rankings/&#34;&gt;jindal.utdallas.edu/the-utd-top-100-business-school-research-rankings&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The Financial Times conducted a review in May 2016 of the journals that count towards its research rank. As a result, the number of journals considered went up to 50 compared to 45 previously.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;FT50&lt;/strong&gt;&lt;cite&gt;&lt;a href=&#34;https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0&#34;&gt;www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;Conferences&#34;&gt;&lt;a href=&#34;#Conferences&#34; class=&#34;headerlink&#34; title=&#34;Conferences&#34;&gt;&lt;/a&gt;Conferences&lt;/h1&gt;&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cistconf.org/&#34;&gt;Conference on Information Systems and Technology (CIST)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://aisel.aisnet.org/icis/&#34;&gt;International Conference on Information Systems (ICIS)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://wiseconf.org/&#34;&gt;Workshop on Information Systems and Economics (WISE)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://witsconf.org/&#34;&gt;Workshop on Information Technologies and Systems (WITS)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://teis-workshop.org/&#34;&gt;Theory in Economics of Information Systems (TEIS)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.scecr.org/&#34;&gt;Statistical Challenges in Electronic Commerce Research (SCECR)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.rhsmith.umd.edu/centers-excellence/center-health-information-decision-systems/initiatives-programs/chita&#34;&gt;Conference on Health IT and Analytics (CHITA)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hicss.hawaii.edu/&#34;&gt;Hawaii International Conference on System Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cswimworkshop.org/&#34;&gt;China Summer Workshop on Information Management (CSWIM)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar&#34;&gt;INFORMS Conference Calendar&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Books-Papers-For-Reference&#34;&gt;&lt;a href=&#34;#Books-Papers-For-Reference&#34; class=&#34;headerlink&#34; title=&#34;Books &amp;amp; Papers For Reference&#34;&gt;&lt;/a&gt;Books &amp;amp; Papers For Reference&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&#34;Advice-Tips-for-PhD&#34;&gt;&lt;a href=&#34;#Advice-Tips-for-PhD&#34; class=&#34;headerlink&#34; title=&#34;Advice &amp;amp; Tips for PhD&#34;&gt;&lt;/a&gt;Advice &amp;amp; Tips for PhD&lt;/h2&gt;&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Peters, Robert L. &lt;em&gt;Getting what you came for: the smart student’s guide to earning a master’s or a Ph. D&lt;/em&gt;. New York: Farrar, Straus and Giroux, 1997. &lt;a href=&#34;https://us.macmillan.com/books/9780374524777/getting-what-you-came-for&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Booth, W. C., Booth, W. C., Colomb, G. G., Colomb, G. G., Williams, J. M., &amp;amp; Williams, J. M. (2003). “&lt;em&gt;The craft of research&lt;/em&gt;“. University of Chicago press. &lt;a href=&#34;https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andrej Karpathy, “&lt;em&gt;A Survival Guide to a PhD&lt;/em&gt;“, 2016. &lt;a href=&#34;http://karpathy.github.io/2016/09/07/phd/&#34;&gt;original source&lt;/a&gt; &lt;a href=&#34;http://web.archive.org/web/20200722074304/https://karpathy.github.io/2016/09/07/phd/&#34;&gt;web archive version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sebastian Ruder, “&lt;em&gt;10 Tips for Research and a PhD&lt;/em&gt;“, 2020. &lt;a href=&#34;https://ruder.io/10-tips-for-research-and-a-phd/index.html&#34;&gt;original source&lt;/a&gt; &lt;a href=&#34;http://web.archive.org/web/20200831140752/https://ruder.io/10-tips-for-research-and-a-phd/index.html&#34;&gt;web archive version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Phillips, Estelle, and Derek Pugh. “&lt;em&gt;How to Get a PhD: A Handbook for Students and their Supervisors&lt;/em&gt;“. McGraw-Hill Education (UK), 2015.&lt;/li&gt;
+&lt;li&gt;Li, Longxing. “The A-Z of the PhD Trajectory: A Practical Guide for a Successful Journey.” &lt;em&gt;International Journal of Teaching and Learning in Higher Education&lt;/em&gt; 32.3 (2020): 536-538. &lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-319-77425-1&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Feibelman, Peter J. “&lt;em&gt;A PhD is not enough!: A guide to survival in science&lt;/em&gt;“. Basic Books, 2011.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Academic-Writings&#34;&gt;&lt;a href=&#34;#Academic-Writings&#34; class=&#34;headerlink&#34; title=&#34;Academic Writings&#34;&gt;&lt;/a&gt;Academic Writings&lt;/h2&gt;&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Cochrane, John H. “&lt;em&gt;Writing Tips for Ph. D. Students.&lt;/em&gt;“ Chicago, IL: University of Chicago, 2005. &lt;a href=&#34;http://mayoral.iae-csic.org/timeseries_bgse13/phd_paper_writing.pdf&#34;&gt;pdf&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Zinsser, William. “On writing well: The classic guide to writing nonfiction.” &lt;em&gt;New York, NY&lt;/em&gt; (2006). &lt;a href=&#34;https://www.harpercollins.com/products/on-writing-well-william-zinsser&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sword, H. (2012).”&lt;em&gt;Stylish academic writing&lt;/em&gt;“. Harvard University Press. &lt;a href=&#34;https://www.hup.harvard.edu/catalog.php?isbn=9780674064485&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Swales, J.M. et al. “&lt;em&gt;Academic Writing for Graduate Students: Essential Tasks and Skills&lt;/em&gt;“. University of Michigan Press, 2012. &lt;a href=&#34;https://www.press.umich.edu/2173936/academic_writing_for_graduate_students_3rd_edition&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wallwork, A. (2016). &lt;em&gt;“English for writing research papers”&lt;/em&gt;. Springer. &lt;a href=&#34;https://www.springer.com/gp/book/9783319260921&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clark, R. P. (2008). &lt;em&gt;“Writing tools: 55 essential strategies for every writer”&lt;/em&gt;. Little, Brown Spark. &lt;a href=&#34;https://www.littlebrownspark.com/titles/roy-peter-clark/writing-tools/9780316014991/&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clark, Roy Peter. &lt;em&gt;How to write short: Word craft for fast times&lt;/em&gt;. Little, Brown Spark, 2013. &lt;a href=&#34;https://www.littlebrownspark.com/titles/roy-peter-clark/how-to-write-short/9780316204347/&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bailey, Stephen. &lt;em&gt;Academic writing: A handbook for international students&lt;/em&gt;. Routledge, 2014. &lt;a href=&#34;https://www.routledge.com/Academic-Writing-A-Handbook-for-International-Students/Bailey/p/book/9781138048744&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Morley, John. “Academic phrasebank.” &lt;em&gt;Manchester: University of Manchester&lt;/em&gt; (2014). &lt;a href=&#34;https://www.phrasebank.manchester.ac.uk/&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;McCarthy, Michael, and Felicity O’dell. &lt;em&gt;Academic vocabulary in use&lt;/em&gt;. Ernst Klett Sprachen, 2008.&lt;/li&gt;
+&lt;li&gt;INFOGRAPHIC: The secret to using tenses in scientific writing &lt;a href=&#34;https://www.editage.com/insights/the-secret-to-using-tenses-in-scientific-writing&#34;&gt;webpage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Using tenses in scientific writing: Tense considerations for science writing &lt;a href=&#34;https://static1.squarespace.com/static/5f455f635c27d9245c08d8d3/t/5f710c752b388d20dacff3dd/1601244277474/Using_tenses_in_scientific_writing_Update_051112.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Review-Writing&#34;&gt;&lt;a href=&#34;#Review-Writing&#34; class=&#34;headerlink&#34; title=&#34;Review Writing&#34;&gt;&lt;/a&gt;Review Writing&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Elisabeth PainSep. 22, 2. (2016, September 22). “&lt;em&gt;How to review a paper&lt;/em&gt;“. Retrieved August 31, 2020. &lt;a href=&#34;https://www.sciencemag.org/careers/2016/09/how-review-paper&#34;&gt;original source&lt;/a&gt; &lt;a href=&#34;http://web.archive.org/web/20200630062426/https://www.sciencemag.org/careers/2016/09/how-review-paper&#34;&gt;web archive version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wiley. “&lt;em&gt;How to perform a peer review&lt;/em&gt;“. Retrieved August 31, 2020. &lt;a href=&#34;https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/index.html&#34;&gt;original source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Indiana University East. (2017). “&lt;em&gt;How to Write a Review of a Scholarly Article&lt;/em&gt;“. Retrieved August 31, 2020. &lt;a href=&#34;https://www.iue.edu/hss/writingcenter/documents/ReviewofaScholarlyArticle.pdf&#34;&gt;original source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adams, J. (2020, August 6). “&lt;em&gt;How to Write an Article Review&lt;/em&gt;“. &lt;a href=&#34;https://www.wikihow.com/Write-an-Article-Review&#34;&gt;original source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ahmed, B. S. (2018, February 26). “&lt;em&gt;Tips and advice when you review a scientific paper&lt;/em&gt;“. Elsevier. &lt;a href=&#34;https://www.journals.elsevier.com/applied-soft-computing/news/tips-and-advice-when-you-review-a-scientific-paper&#34;&gt;original source&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;MIS Quarterly. (2020). “&lt;em&gt;Reviewing for MIS Quarterly: Virtuous Reviewing at MIS Quarterly&lt;/em&gt;“. &lt;a href=&#34;https://misq.org/reviews/&#34;&gt;source&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Academic-Presentations&#34;&gt;&lt;a href=&#34;#Academic-Presentations&#34; class=&#34;headerlink&#34; title=&#34;Academic Presentations&#34;&gt;&lt;/a&gt;Academic Presentations&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Reinhart, Susan M. &lt;em&gt;Giving academic presentations&lt;/em&gt;. Ann Arbor, MI: University of Michigan Press, 2002. &lt;a href=&#34;https://www.press.umich.edu/11918183/giving_academic_presentations_second_edition&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chivers, Barbara, and Michael Shoolbred. &lt;em&gt;A Student′ s Guide to Presentations: Making your Presentation Count&lt;/em&gt;. Sage, 2007. &lt;a href=&#34;https://us.sagepub.com/en-us/nam/a-students-guide-to-presentations/book226241&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Graham Burton. &lt;em&gt;Presenting: Deliver Academic Presentations with Confidence&lt;/em&gt; HarperCollins UK, 2014.&lt;/li&gt;
+&lt;li&gt;Rendle-Short, Johanna. &lt;em&gt;The academic presentation: Situated talk in action&lt;/em&gt;. Routledge, 2016.&lt;/li&gt;
+&lt;li&gt;Nycyk, Michael. “Academic and scientific poster presentation: a modern comprehensive guide.” (2018): 1550-1552.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Statistics-and-Probability&#34;&gt;&lt;a href=&#34;#Statistics-and-Probability&#34; class=&#34;headerlink&#34; title=&#34;Statistics and Probability&#34;&gt;&lt;/a&gt;Statistics and Probability&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Casella, George, and Roger L. Berger. Statistical inference. Vol. 2. Pacific Grove, CA: Duxbury, 2002.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Optimization&#34;&gt;&lt;a href=&#34;#Optimization&#34; class=&#34;headerlink&#34; title=&#34;Optimization&#34;&gt;&lt;/a&gt;Optimization&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Boyd, Stephen, Stephen P. Boyd, and Lieven Vandenberghe. Convex optimization. Cambridge university press, 2004. &lt;a href=&#34;https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sundaram, Rangarajan K. A first course in optimization theory. Cambridge university press, 1996.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Microeconomic&#34;&gt;&lt;a href=&#34;#Microeconomic&#34; class=&#34;headerlink&#34; title=&#34;Microeconomic&#34;&gt;&lt;/a&gt;Microeconomic&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Varian, Hal R. Microeconomic analysis. WW Norton, 1992.&lt;/li&gt;
+&lt;li&gt;Rubinstein, Ariel. Lecture notes in microeconomic theory: the economic agent. Princeton University Press, 2012. &lt;a href=&#34;http://arielrubinstein.tau.ac.il/books.html&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Econometrics&#34;&gt;&lt;a href=&#34;#Econometrics&#34; class=&#34;headerlink&#34; title=&#34;Econometrics&#34;&gt;&lt;/a&gt;Econometrics&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Greene, William H. Econometric analysis (Eight Edition). (2017).&lt;/li&gt;
+&lt;li&gt;Cameron, A. Colin, and Pravin K. Trivedi. Microeconometrics: methods and applications. Cambridge university press, 2005.&lt;/li&gt;
+&lt;li&gt;Wooldridge, Jeffrey M. Econometric analysis of cross section and panel data. MIT press, 2010.&lt;/li&gt;
+&lt;li&gt;Wooldridge, Jeffrey M. Introductory econometrics: A modern approach. Nelson Education, 2016.&lt;/li&gt;
+&lt;li&gt;Hill, R. Carter, William E. Griffiths, and Guay C. Lim. Principles of econometrics. John Wiley &amp;amp; Sons, 2018.&lt;/li&gt;
+&lt;li&gt;Davidson, Russell, and James G. MacKinnon. Econometric theory and methods. Vol. 5. New York: Oxford University Press, 2004.&lt;/li&gt;
+&lt;li&gt;Maddala, Gangadharrao S. Limited-dependent and qualitative variables in econometrics. No. 3. Cambridge university press, 1986.&lt;/li&gt;
+&lt;li&gt;Angrist, Joshua D., and Jörn-Steffen Pischke. Mostly harmless econometrics: An empiricist’s companion. Princeton university press, 2008.&lt;/li&gt;
+&lt;li&gt;Baltagi, Badi Hani. “&lt;em&gt;Econometric analysis of panel data&lt;/em&gt;“. Springer International Publishing, (6th Edition, 2021). &lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-53953-5&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-cube&#34;&gt;&lt;/i&gt; This &lt;a href=&#34;https://www.bradyneal.com/which-causal-inference-book&#34;&gt;Wikipedia page&lt;/a&gt; compares technical information for a number of statistical analysis packages.
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;h2 id=&#34;Causal-Inference&#34;&gt;&lt;a href=&#34;#Causal-Inference&#34; class=&#34;headerlink&#34; title=&#34;Causal Inference&#34;&gt;&lt;/a&gt;Causal Inference&lt;/h2&gt;&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-blog&#34;&gt;&lt;/i&gt; Brady Neal&#39;s blog provides &lt;a href=&#34;https://www.bradyneal.com/which-causal-inference-book&#34;&gt;a good list&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Brady Neal&#39;s blog also provides a good course &#34;&lt;a href=&#34;https://www.bradyneal.com/causal-inference-course&#34;&gt;Introduction to Causal Inference&lt;/a&gt;&#34;.
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pearl, Judea. “&lt;em&gt;Causal inference in statistics: An overview.&lt;/em&gt;“ Statistics surveys 3 (2009): 96-146. &lt;a href=&#34;https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yao, Liuyi, et al. “&lt;em&gt;A survey on causal inference.&lt;/em&gt;“ arXiv preprint arXiv:2002.02770 (2020). &lt;a href=&#34;https://arxiv.org/abs/2002.02770&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Game-Theory&#34;&gt;&lt;a href=&#34;#Game-Theory&#34; class=&#34;headerlink&#34; title=&#34;Game Theory&#34;&gt;&lt;/a&gt;Game Theory&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Gibbons, Robert S. Game theory for applied economists. Princeton University Press, 1992.&lt;/li&gt;
+&lt;li&gt;Fudenberg, Drew, and Jean Tirole. Game theory. MIT press, 1991.&lt;/li&gt;
+&lt;li&gt;Myerson, Roger B. Game Theory: Analysis of Conflict. Harvard university press, 2013.&lt;/li&gt;
+&lt;li&gt;Osborne, Martin J., and Ariel Rubinstein. A course in game theory. MIT press, 1994.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Industry-Organization&#34;&gt;&lt;a href=&#34;#Industry-Organization&#34; class=&#34;headerlink&#34; title=&#34;Industry Organization&#34;&gt;&lt;/a&gt;Industry Organization&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Tirole, Jean. The theory of industrial organization. MIT press, 1988.&lt;/li&gt;
+&lt;li&gt;Vives, Xavier. Oligopoly pricing: old ideas and new tools. MIT press, 1999.&lt;/li&gt;
+&lt;li&gt;Martin, Stephen. Advanced industrial economics. Blackwell Publishers, 2002.&lt;/li&gt;
+&lt;li&gt;Belleflamme, Paul, and Martin Peitz. &lt;em&gt;Industrial organization: markets and strategies&lt;/em&gt;. Cambridge University Press, 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Machine-Learning-Deep-Learning&#34;&gt;&lt;a href=&#34;#Machine-Learning-Deep-Learning&#34; class=&#34;headerlink&#34; title=&#34;Machine Learning &amp;#x2F; Deep Learning&#34;&gt;&lt;/a&gt;Machine Learning &amp;#x2F; Deep Learning&lt;/h2&gt;&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Sergey Levine provides a course CS W182 / 282A - UC Berkeley at &lt;a href=&#34;https://cs182sp21.github.io/&#34;&gt;Designing, Visualizing and Understanding Deep Neural Networks&lt;/a&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+- Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. The elements of statistical learning: data mining, inference, and prediction. Springer Science &amp; Business Media, 2009. [source](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- Bishop, Christopher M. Pattern recognition and machine learning. springer, 2006. [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- Barber, David. Bayesian reasoning and machine learning. Cambridge University Press, 2012. [source](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
+- Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press, 2012.
+- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. &#34;Deep learning.&#34; Cambridge: MIT press, 2016. [source](https://www.deeplearningbook.org/)
+
+&lt;h2 id=&#34;Few-shot-Learning&#34;&gt;&lt;a href=&#34;#Few-shot-Learning&#34; class=&#34;headerlink&#34; title=&#34;Few-shot Learning&#34;&gt;&lt;/a&gt;Few-shot Learning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Wang, Yaqing, et al. “Generalizing from a few examples: A survey on few-shot learning.” &lt;em&gt;ACM Computing Surveys (CSUR)&lt;/em&gt; 53.3 (2020): 1-34. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3386252&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Transfer-Learning&#34;&gt;&lt;a href=&#34;#Transfer-Learning&#34; class=&#34;headerlink&#34; title=&#34;Transfer Learning&#34;&gt;&lt;/a&gt;Transfer Learning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Pan, Sinno Jialin, and Qiang Yang. “A survey on transfer learning.” &lt;em&gt;IEEE Transactions on knowledge and data engineering&lt;/em&gt; 22.10 (2009): 1345-1359. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/5288526&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weiss, Karl, Taghi M. Khoshgoftaar, and DingDing Wang. “A survey of transfer learning.” &lt;em&gt;Journal of Big data&lt;/em&gt; 3.1 (2016): 1-40. &lt;a href=&#34;https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tan, Chuanqi, et al. “A survey on deep transfer learning.” &lt;em&gt;International conference on artificial neural networks&lt;/em&gt;. Springer, Cham, 2018. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-01424-7_27&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhuang, Fuzhen, et al. “A comprehensive survey on transfer learning.” &lt;em&gt;Proceedings of the IEEE&lt;/em&gt; 109.1 (2020): 43-76. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9134370&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Reinforcement-Learning&#34;&gt;&lt;a href=&#34;#Reinforcement-Learning&#34; class=&#34;headerlink&#34; title=&#34;Reinforcement Learning&#34;&gt;&lt;/a&gt;Reinforcement Learning&lt;/h2&gt;&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; datawhalechina on github.com provides a course in Chinese at &lt;a href=&#34;https://github.com/datawhalechina/easy-rl&#34;&gt;datawhalechina/easy-rl&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; Bolei Zhou on github.com provides a course in English at &lt;a href=&#34;https://github.com/zhoubolei/introRL&#34;&gt;zhoubolei/introRL&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; DeepMind and UCL provide an introduction lecture on reinforcement learning at &lt;a href=&#34;https://deepmind.com/learning-resources/reinforcement-learning-series-2021&#34;&gt;Reinforcement Learning Lecture Series 2021&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Hao Dong, Zihan Ding and Shanghang Zhang offer an online version of the book &lt;a href=&#34;https://deepreinforcementlearningbook.org/&#34;&gt;&#34;Deep Reinforcement Learning: Fundamentals, Research and Applications&#34;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018. &lt;a href=&#34;http://incompleteideas.net/book/RLbook2020.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yang, Tianpei, et al. “Exploration in deep reinforcement learning: A comprehensive survey.” &lt;em&gt;arXiv preprint arXiv:2109.06668&lt;/em&gt; (2021). &lt;a href=&#34;https://arxiv.org/abs/2109.06668&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Stochastic-Differential-Equation&#34;&gt;&lt;a href=&#34;#Stochastic-Differential-Equation&#34; class=&#34;headerlink&#34; title=&#34;Stochastic Differential Equation&#34;&gt;&lt;/a&gt;Stochastic Differential Equation&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Gardiner, Crispin W. “&lt;em&gt;Handbook of stochastic methods: for physics, chemistry and the natural sciences.&lt;/em&gt;“ (2004). &lt;a href=&#34;https://www.springer.com/gp/book/9783540707127&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dixit, Robert K., and Robert S. Pindyck. “&lt;em&gt;Investment under uncertainty&lt;/em&gt;“. Princeton university press, 2012. &lt;a href=&#34;https://press.princeton.edu/books/hardcover/9780691034102/investment-under-uncertainty&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Klebaner, Fima C. “&lt;em&gt;Introduction to stochastic calculus with applications&lt;/em&gt;“. World Scientific Publishing Company, 2012. &lt;a href=&#34;https://www.worldscientific.com/worldscibooks/10.1142/p821&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Evans, Lawrence C. “&lt;em&gt;An introduction to stochastic differential equations&lt;/em&gt;“. Vol. 82. American Mathematical Soc., 2012. &lt;a href=&#34;http://ft-sipil.unila.ac.id/dbooks/AN%20INTRODUCTION%20TO%20STOCHASTIC%20DIFFERENTIAL%20EQUATIONS%20VERSION%201.2.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mikosch, Thomas. “&lt;em&gt;Elementary stochastic calculus with finance in view&lt;/em&gt;“. World scientific, 1998. &lt;a href=&#34;https://www.worldscientific.com/worldscibooks/10.1142/3856&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Oksendal, Bernt. “&lt;em&gt;Stochastic differential equations: an introduction with applications&lt;/em&gt;“. Springer Science &amp;amp; Business Media, 2013. &lt;a href=&#34;https://www.springer.com/gp/book/9783662036204&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mao, Xuerong. “&lt;em&gt;Stochastic differential equations and applications&lt;/em&gt;“. Elsevier, 2007. &lt;a href=&#34;https://www.elsevier.com/books/stochastic-differential-equations-and-applications/mao/978-1-904275-34-3&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Analytical-Model&#34;&gt;&lt;a href=&#34;#Analytical-Model&#34; class=&#34;headerlink&#34; title=&#34;Analytical Model&#34;&gt;&lt;/a&gt;Analytical Model&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&#34;How-to-Model&#34;&gt;&lt;a href=&#34;#How-to-Model&#34; class=&#34;headerlink&#34; title=&#34;How to Model&#34;&gt;&lt;/a&gt;How to Model&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Varian, Hal R. “&lt;em&gt;How to build an economic model in your spare time.&lt;/em&gt;“ The American Economist 61.1 (2016): 81-90. &lt;a href=&#34;https://journals.sagepub.com/doi/pdf/10.1177/0569434515627089&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Bounded-Rationality-and-Attention&#34;&gt;&lt;a href=&#34;#Bounded-Rationality-and-Attention&#34; class=&#34;headerlink&#34; title=&#34;Bounded Rationality and Attention&#34;&gt;&lt;/a&gt;Bounded Rationality and Attention&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Gifford, Sharon. “&lt;em&gt;Limited attention as the bound on rationality.&lt;/em&gt;“ The BE Journal of Theoretical Economics 5.1 (2005). &lt;a href=&#34;https://www.degruyter.com/view/journals/bejte/5/1/article-bejte.2005.5.1.1108.xml.xml&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Adverse-Selection-and-Self-Selection&#34;&gt;&lt;a href=&#34;#Adverse-Selection-and-Self-Selection&#34; class=&#34;headerlink&#34; title=&#34;Adverse Selection and Self Selection&#34;&gt;&lt;/a&gt;Adverse Selection and Self Selection&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Akerlof, George A. “&lt;em&gt;The market for “lemons”: Quality uncertainty and the market mechanism.&lt;/em&gt;“ Uncertainty in economics. Academic Press, 1978. 235-251. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/B978012214850750022X&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sundararajan, Arun. “&lt;em&gt;Nonlinear pricing of information goods.&lt;/em&gt;“ Management science 50.12 (2004): 1660-1673. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1040.0291&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Two-sided-Market&#34;&gt;&lt;a href=&#34;#Two-sided-Market&#34; class=&#34;headerlink&#34; title=&#34;Two-sided Market&#34;&gt;&lt;/a&gt;Two-sided Market&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Tunc, Murat M., Huseyin Cavusoglu, and Srinivasan Raghunathan. “&lt;em&gt;Two-Sided Adverse Selection and Bilateral Reviews in Sharing Economy.&lt;/em&gt;“ Available at SSRN 3499979 (2019). &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3499979&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Manlu Chen, Ming Hu, Jianfu Wang (2022) Food Delivery Service and Restaurant: Friend or Foe?. Management Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mnsc.2021.4245&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Externalities&#34;&gt;&lt;a href=&#34;#Externalities&#34; class=&#34;headerlink&#34; title=&#34;Externalities&#34;&gt;&lt;/a&gt;Externalities&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;August, Terrence, and Tunay I. Tunca. “&lt;em&gt;Network software security and user incentives.&lt;/em&gt;“ Management Science 52.11 (2006): 1703-1720. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1060.0568&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Koh, Byungwan, Srinivasan Raghunathan, and Barrie R. Nault. “&lt;em&gt;Is voluntary profiling welfare enhancing?.&lt;/em&gt;“ Management Information Systems Quarterly, Forthcoming (2015). &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2841845&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Platform-Openness&#34;&gt;&lt;a href=&#34;#Platform-Openness&#34; class=&#34;headerlink&#34; title=&#34;Platform Openness&#34;&gt;&lt;/a&gt;Platform Openness&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Adner, Ron, Jianqing Chen, and Feng Zhu. “&lt;em&gt;Frenemies in platform markets: Heterogeneous profit foci as drivers of compatibility decisions.&lt;/em&gt;“ Management Science (2019). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3327&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Chen, Jianqing, and Zhiling Guo. “&lt;em&gt;New media advertising and retail platform openness.&lt;/em&gt;“ &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2694073&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Versioning&#34;&gt;&lt;a href=&#34;#Versioning&#34; class=&#34;headerlink&#34; title=&#34;Versioning&#34;&gt;&lt;/a&gt;Versioning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bhargava, Hemant K., and Vidyanand Choudhary. “&lt;em&gt;Information goods and vertical differentiation.&lt;/em&gt;“ Journal of Management Information Systems 18.2 (2001): 89-106. &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/07421222.2001.11045681&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Lahiri, Atanu, and Debabrata Dey. “&lt;em&gt;Versioning and information dissemination: A new perspective.&lt;/em&gt;“ Information Systems Research 29.4 (2018): 965-983. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0763&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Contracting-and-Moral-Hazard&#34;&gt;&lt;a href=&#34;#Contracting-and-Moral-Hazard&#34; class=&#34;headerlink&#34; title=&#34;Contracting and Moral Hazard&#34;&gt;&lt;/a&gt;Contracting and Moral Hazard&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cezar, Asunur, Huseyin Cavusoglu, and Srinivasan Raghunathan. “&lt;em&gt;Outsourcing information security: Contracting issues and security implications.&lt;/em&gt;“ Management Science 60.3 (2014): 638-657. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2013.1763&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Choudhary, Vidyanand, et al. “&lt;em&gt;Personalized pricing and quality differentiation.&lt;/em&gt;“ Management Science 51.7 (2005): 1120-1130. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1050.0383&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Information-Goods&#34;&gt;&lt;a href=&#34;#Information-Goods&#34; class=&#34;headerlink&#34; title=&#34;Information Goods&#34;&gt;&lt;/a&gt;Information Goods&lt;/h2&gt;&lt;h2 id=&#34;Security&#34;&gt;&lt;a href=&#34;#Security&#34; class=&#34;headerlink&#34; title=&#34;Security&#34;&gt;&lt;/a&gt;Security&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Dey, Debabrata, Atanu Lahiri, and Guoying Zhang. “&lt;em&gt;Hacker behavior, network effects, and the security software market.&lt;/em&gt;“ Journal of Management Information Systems 29.2 (2012): 77-108. &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222290204&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ghoshal, Abhijeet, Atanu Lahiri, and Debabrata Dey. “&lt;em&gt;Drawing a Line in the Sand: Commitment Problem in Ending Software Support.&lt;/em&gt;“ MIS Quarterly 41.4 (2017): 1227-1247. &lt;a href=&#34;https://misq.org/drawing-a-line-in-the-sand-commitment-problem-in-ending-software-support.html&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Piracy&#34;&gt;&lt;a href=&#34;#Piracy&#34; class=&#34;headerlink&#34; title=&#34;Piracy&#34;&gt;&lt;/a&gt;Piracy&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lahiri, Atanu, and Debabrata Dey. “&lt;em&gt;Effects of piracy on quality of information goods.&lt;/em&gt;“ Management Science 59.1 (2013): 245-264. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1120.1578&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kim, Antino, Atanu Lahiri, and Debabrata Dey. “&lt;em&gt;The” Invisible Hand” of Piracy: An Economic Analysis of the Information-Goods Supply Chain.&lt;/em&gt;“ MIS Quarterly 42.4 (2018). &lt;a href=&#34;https://misq.org/the-invisible-hand-of-piracy-an-economic-analysis-of-the-information-goods-supply-chain.html&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Chellappa, Ramnath K., and Shivendu Shivendu. “&lt;em&gt;Managing piracy: Pricing and sampling strategies for digital experience goods in vertically segmented markets.&lt;/em&gt;“ Information Systems Research 16.4 (2005): 400-417. &lt;a href=&#34;https://pubsonline.informs.org/doi/10.1287/isre.1050.0069&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Jain, Sanjay. “&lt;em&gt;Digital piracy: A competitive analysis.&lt;/em&gt;“ Marketing science 27.4 (2008): 610-626. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mksc.1070.0313&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Peitz, Martin, and Patrick Waelbroeck. “&lt;em&gt;Piracy of digital products: A critical review of the theoretical literature.&lt;/em&gt;“ Information Economics and Policy 18.4 (2006): 449-476. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167624506000540&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Online-Advertising-and-Keyword-Auctions&#34;&gt;&lt;a href=&#34;#Online-Advertising-and-Keyword-Auctions&#34; class=&#34;headerlink&#34; title=&#34;Online Advertising and Keyword Auctions&#34;&gt;&lt;/a&gt;Online Advertising and Keyword Auctions&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Chen, Jianqing, and Jan Stallaert. “&lt;em&gt;An economic analysis of online advertising using behavioral targeting.&lt;/em&gt;“ Mis Quarterly 38.2 (2014): 429-A7. &lt;a href=&#34;https://www.jstor.org/stable/26634933&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Liu, De, Jianqing Chen, and Andrew B. Whinston. “&lt;em&gt;Ex ante information and the design of keyword auctions.&lt;/em&gt;“ Information Systems Research 21.1 (2010): 133-153.&lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.1080.0225&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Counterfeit-Seller&#34;&gt;&lt;a href=&#34;#Counterfeit-Seller&#34; class=&#34;headerlink&#34; title=&#34;Counterfeit Seller&#34;&gt;&lt;/a&gt;Counterfeit Seller&lt;/h2&gt;&lt;h2 id=&#34;Recommendation-Systems&#34;&gt;&lt;a href=&#34;#Recommendation-Systems&#34; class=&#34;headerlink&#34; title=&#34;Recommendation Systems&#34;&gt;&lt;/a&gt;Recommendation Systems&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Ghoshal, Abhijeet, Vijay S. Mookerjee, and Sumit Sarkar. “&lt;em&gt;Recommendations and Cross-selling: Pricing Strategies when Personalizing Firms Cross-sell.&lt;/em&gt;“ Journal of Management Information Systems 38.2 (2021): 430-456. &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1912930&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Empirical-Model&#34;&gt;&lt;a href=&#34;#Empirical-Model&#34; class=&#34;headerlink&#34; title=&#34;Empirical Model&#34;&gt;&lt;/a&gt;Empirical Model&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&#34;Targeting-with-Mobile-Coupons&#34;&gt;&lt;a href=&#34;#Targeting-with-Mobile-Coupons&#34; class=&#34;headerlink&#34; title=&#34;Targeting with Mobile Coupons&#34;&gt;&lt;/a&gt;Targeting with Mobile Coupons&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Ghose, Anindya, et al. “&lt;em&gt;Seizing the commuting moment: Contextual targeting based on mobile transportation apps.&lt;/em&gt;“ Information Systems Research 30.1 (2019): 154-174. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2018.0792&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andrews, Michelle, et al. “&lt;em&gt;Mobile ad effectiveness: Hyper-contextual targeting with crowdedness.&lt;/em&gt;“ Marketing Science 35.2 (2016): 218-233. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mksc.2015.0905&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Subscription-Models-in-Online-Platforms&#34;&gt;&lt;a href=&#34;#Subscription-Models-in-Online-Platforms&#34; class=&#34;headerlink&#34; title=&#34;Subscription Models in Online Platforms&#34;&gt;&lt;/a&gt;Subscription Models in Online Platforms&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Oestreicher-Singer, Gal, and Lior Zalmanson. “&lt;em&gt;Content or community? A digital business strategy for content providers in the social age.&lt;/em&gt;“ MIS quarterly (2013): 591-616. &lt;a href=&#34;https://www.jstor.org/stable/43825924&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bapna, Ravi, and Akhmed Umyarov. “&lt;em&gt;Do your online friends make you pay? A randomized field experiment on peer influence in online social networks.&lt;/em&gt;“ Management Science 61.8 (2015): 1902-1920. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.2081&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Multichannel-Advertising-and-Retailing&#34;&gt;&lt;a href=&#34;#Multichannel-Advertising-and-Retailing&#34; class=&#34;headerlink&#34; title=&#34;Multichannel Advertising and Retailing&#34;&gt;&lt;/a&gt;Multichannel Advertising and Retailing&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kumar, Anuj, Amit Mehra, and Subodha Kumar. “&lt;em&gt;Why do stores drive online sales? Evidence of underlying mechanisms from a multichannel retailer.&lt;/em&gt;“ Information Systems Research 30.1 (2019): 319-338. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2018.0814&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ghose, Anindya, and Vilma Todri. “&lt;em&gt;Towards a digital attribution model: Measuring the impact of display advertising on online consumer behavior.&lt;/em&gt;“ Available at SSRN 2672090 (2015). &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2672090&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Video-Advertising-and-Recommendations&#34;&gt;&lt;a href=&#34;#Video-Advertising-and-Recommendations&#34; class=&#34;headerlink&#34; title=&#34;Video Advertising and Recommendations&#34;&gt;&lt;/a&gt;Video Advertising and Recommendations&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kumar, Anuj, and Yinliang Tan. “&lt;em&gt;The demand effects of joint product advertising in online videos.&lt;/em&gt;“ Management Science 61.8 (2015): 1921-1937. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.2086&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kumar, Anuj, and Kartik Hosanagar. “&lt;em&gt;Measuring the value of recommendation links on product demand.&lt;/em&gt;“ Information Systems Research 30.3 (2019): 819-838. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2018.0833&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Matthew McGranaghan, Jura Liaukonyte, Kenneth C. Wilbur (2022) How Viewer Tuning, Presence, and Attention Respond to Ad Content and Predict Brand Search Lift. Marketing Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mksc.2021.1344&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Educational-Technology&#34;&gt;&lt;a href=&#34;#Educational-Technology&#34; class=&#34;headerlink&#34; title=&#34;Educational Technology&#34;&gt;&lt;/a&gt;Educational Technology&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kumar, Anuj, and Amit Mehra. “&lt;em&gt;Remedying Education with Personalized Homework: Evidence from a Randomized Field Experiment in India.&lt;/em&gt;“ Available at SSRN 2756059 (2018). &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2756059&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Machine-Learning-Applications&#34;&gt;&lt;a href=&#34;#Machine-Learning-Applications&#34; class=&#34;headerlink&#34; title=&#34;Machine Learning Applications&#34;&gt;&lt;/a&gt;Machine Learning Applications&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Wang, Quan, Beibei Li, and Param Vir Singh. “&lt;em&gt;Copycats vs. original mobile apps: A machine learning copycat-detection method and empirical analysis.&lt;/em&gt;“ Information Systems Research 29.2 (2018): 273-291. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0735&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Burtch, Gordon, Anindya Ghose, and Sunil Wattal. “&lt;em&gt;The hidden cost of accommodating crowdfunder privacy preferences: A randomized field experiment.&lt;/em&gt;“ Management Science 61.5 (2015): 949-962. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.2069&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vítor Albiero, and Kevin W. Bowyer. “&lt;em&gt;Is Face Recognition Sexist? No, Gendered Hairstyles and Biology Are&lt;/em&gt;“  BMVC 2020. &lt;a href=&#34;https://arxiv.org/abs/2008.06989&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Piracy-1&#34;&gt;&lt;a href=&#34;#Piracy-1&#34; class=&#34;headerlink&#34; title=&#34;Piracy&#34;&gt;&lt;/a&gt;Piracy&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Martin Eisend. “&lt;em&gt;Explaining Digital Piracy: A Meta-Analysis.&lt;/em&gt;“ Information Systems Research 30.2 (2019): 636-664. &lt;a href=&#34;https://pubsonline.informs.org/doi/10.1287/isre.2018.0821&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Christian Peukert, Stefan Bechtold, Michail Batikas, Tobias Kretschmer (2022) Regulatory Spillovers and Data Governance: Evidence from the GDPR. Marketing Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mksc.2021.1339&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Algorithm-Concern&#34;&gt;&lt;a href=&#34;#Algorithm-Concern&#34; class=&#34;headerlink&#34; title=&#34;Algorithm Concern&#34;&gt;&lt;/a&gt;Algorithm Concern&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Lambrecht, Anja, and Catherine Tucker. “&lt;em&gt;Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads&lt;/em&gt;.” Management Science 65.7 (2019): 2966-2981. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2018.3093&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dietvorst, Berkeley J., Joseph P. Simmons, and Cade Massey. “&lt;em&gt;Overcoming algorithm aversion: People will use imperfect algorithms if they can (even slightly) modify them&lt;/em&gt;.” Management Science 64.3 (2018): 1155-1170. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2643&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kleinberg, Jon, et al. “&lt;em&gt;Human decisions and machine predictions&lt;/em&gt;.” The quarterly journal of economics 133.1 (2018): 237-293. &lt;a href=&#34;https://academic.oup.com/qje/article/133/1/237/4095198&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Athey, Susan. “&lt;em&gt;The impact of machine learning on economics&lt;/em&gt;.” The economics of artificial intelligence: An agenda. University of Chicago Press, 2018. 507-547. &lt;a href=&#34;https://projects.iq.harvard.edu/files/pegroup/files/athey2018.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bouayad, Lina, Balaji Padmanabhan, and Kaushal Chari. “&lt;em&gt;Audit Policies Under the Sentinel Effect: Deterrence-Driven Algorithms&lt;/em&gt;.” Information Systems Research 30.2 (2019): 466-485. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2019.0841&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Germann, Maximilian, and Christoph Merkle. “&lt;em&gt;Algorithm Aversion in Financial Investing&lt;/em&gt;.” Available at SSRN 3364850 (2019). &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364850&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Empirical-Methodology&#34;&gt;&lt;a href=&#34;#Empirical-Methodology&#34; class=&#34;headerlink&#34; title=&#34;Empirical Methodology&#34;&gt;&lt;/a&gt;Empirical Methodology&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. “How much should we trust differences-in-differences estimates?.” The Quarterly journal of economics 119.1 (2004): 249-275. &lt;a href=&#34;https://academic.oup.com/qje/article/119/1/249/1876068&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tafti, Ali R., and Galit Shmueli. “Beyond Overall Treatment Effects: Leveraging Covariates in Randomized Experiments Guided by Causal Structure.” Available at SSRN 3331772 (2019). &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331772&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Xu, Yiqing. “&lt;em&gt;Generalized synthetic control method: Causal inference with interactive fixed effects models.&lt;/em&gt;“ Political Analysis 25.1 (2017): 57-76.&lt;a href=&#34;https://www.cambridge.org/core/journals/political-analysis/article/generalized-synthetic-control-method-causal-inference-with-interactive-fixed-effects-models/B63A8BD7C239DD4141C67DA10CD0E4F3&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rubin, Donald B., and Richard P. Waterman. “&lt;em&gt;Estimating the causal effects of marketing interventions using propensity score methodology&lt;/em&gt;.” Statistical Science (2006): 206-222. &lt;a href=&#34;https://www.jstor.org/stable/27645750&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Athey, Susan, and Stefan Wager. “&lt;em&gt;Estimating treatment effects with causal forests: An application&lt;/em&gt;.” arXiv preprint arXiv:1902.07409 (2019). &lt;a href=&#34;https://arxiv.org/abs/1902.07409&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Langer, Nishtha, Ram D. Gopal, and Ravi Bapna. “&lt;em&gt;Onward and Upward? An Empirical Investigation of Gender and Promotions in Information Technology Services&lt;/em&gt;.” Information Systems Research (2020). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2019.0892&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhang, Yingjie, et al. “&lt;em&gt;Personalized mobile targeting with user engagement stages: Combining a structural hidden markov model and field experiment&lt;/em&gt;.” Information Systems Research 30.3 (2019): 787-804. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2018.0831&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhong, Ning, and David A. Schweidel. “&lt;em&gt;Capturing changes in social media content: a multiple latent changepoint topic model&lt;/em&gt;.” Marketing Science (2020). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mksc.2019.1212&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bertsimas, Dimitris, and Nathan Kallus. “&lt;em&gt;From predictive to prescriptive analytics&lt;/em&gt;.” Management Science 66.3 (2020): 1025-1044. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2018.3253&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wang, Guihua, Jun Li, and Wallace J. Hopp. “&lt;em&gt;An instrumental variable tree approach for detecting heterogeneous treatment effects in observational studies.&lt;/em&gt;“ Ross School of Business Paper (2018). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4084?af=R&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Causality-and-Machine-Learning&#34;&gt;&lt;a href=&#34;#Causality-and-Machine-Learning&#34; class=&#34;headerlink&#34; title=&#34;Causality and Machine Learning&#34;&gt;&lt;/a&gt;Causality and Machine Learning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Pearl, Judea. “&lt;em&gt;Causal inference in statistics: An overview.&lt;/em&gt;“ Statistics surveys 3 (2009): 96-146. &lt;a href=&#34;https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.full&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Schölkopf, Bernhard. “&lt;em&gt;Causality for machine learning.&lt;/em&gt;“ arXiv preprint arXiv:1911.10500 (2019). &lt;a href=&#34;https://arxiv.org/abs/1911.10500&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guo, Ruocheng, et al. “&lt;em&gt;A survey of learning causality with data: Problems and methods.&lt;/em&gt;“ ACM Computing Surveys (CSUR) 53.4 (2020): 1-37. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3397269&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yao, Liuyi, et al. “&lt;em&gt;A survey on causal inference.&lt;/em&gt;“ arXiv preprint arXiv:2002.02770 (2020). &lt;a href=&#34;https://arxiv.org/abs/2002.02770&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Schnabel, Tobias, et al. “&lt;em&gt;Recommendations as treatments: Debiasing learning and evaluation.&lt;/em&gt;“ international conference on machine learning. PMLR, 2016. &lt;a href=&#34;http://proceedings.mlr.press/v48/schnabel16.html&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bonner, Stephen, and Flavian Vasile. “&lt;em&gt;Causal embeddings for recommendation.&lt;/em&gt;“ Proceedings of the 12th ACM conference on recommender systems. 2018. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3240323.3240360&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wang, Yixin, et al. “&lt;em&gt;Causal Inference for Recommender Systems.&lt;/em&gt;“ Fourteenth ACM Conference on Recommender Systems. 2020. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3383313.3412225&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chen, Jiawei, et al. “&lt;em&gt;AutoDebias: Learning to Debias for Recommendation.&lt;/em&gt;“ arXiv preprint arXiv:2105.04170 (2021). &lt;a href=&#34;https://arxiv.org/abs/2105.04170&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fab fa-microsoft&#34;&gt;&lt;/i&gt; Microsoft Research hosts its causality research at &lt;a href=&#34;https://www.microsoft.com/en-us/research/group/causal-inference/&#34;&gt;Causality and Machine Learning&lt;/a&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;h2 id=&#34;Digital-Beauty-Filter&#34;&gt;&lt;a href=&#34;#Digital-Beauty-Filter&#34; class=&#34;headerlink&#34; title=&#34;Digital Beauty Filter&#34;&gt;&lt;/a&gt;Digital Beauty Filter&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/&#34;&gt;I asked an AI to tell me how beautiful I am&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.technologyreview.com/2021/04/02/1021635/beauty-filters-young-girls-augmented-reality-social-media/&#34;&gt;Beauty filters are changing the way young girls see themselves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.technologyreview.com/2021/06/10/1026074/tiktok-mandatory-beauty-filter-bug/&#34;&gt;TikTok changed the shape of some people’s faces without asking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.technologyreview.com/2021/08/15/1031804/digital-beauty-filters-photoshop-photo-editing-colorism-racism/&#34;&gt;How digital beauty filters perpetuate colorism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Losh, Elizabeth. “&lt;em&gt;Selfies| Feminism Reads Big Data:” Social Physics,” Atomism, and Selfiecity.&lt;/em&gt;“ International Journal of Communication 9 (2015): 13. &lt;a href=&#34;https://ijoc.org/index.php/ijoc/article/view/3152&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Elias, Ana Sofia, and Rosalind Gill. “&lt;em&gt;Beauty surveillance: The digital self-monitoring cultures of neoliberalism.&lt;/em&gt;“ European Journal of Cultural Studies 21.1 (2018): 59-77. &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/1367549417705604&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Digital-Content-User-Generated-Content&#34;&gt;&lt;a href=&#34;#Digital-Content-User-Generated-Content&#34; class=&#34;headerlink&#34; title=&#34;Digital Content &amp;amp; User-Generated Content&#34;&gt;&lt;/a&gt;Digital Content &amp;amp; User-Generated Content&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Ye, Hua, et al. “&lt;em&gt;Monetization of Digital Content: Drivers of Revenue on Q&amp;amp;a Platforms.&lt;/em&gt;“ Journal of Management Information Systems 38.2 (2021): 457-483. &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1912934&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Gender&#34;&gt;&lt;a href=&#34;#Gender&#34; class=&#34;headerlink&#34; title=&#34;Gender&#34;&gt;&lt;/a&gt;Gender&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Lin, Chen, et al. “&lt;em&gt;Do “Little Emperors” Get More Than “Little Empresses”? Boy-Girl Gender Discrimination as Evidenced by Consumption Behavior of Chinese Households.&lt;/em&gt;“ Marketing Science (2021). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mksc.2021.1302?af=R&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Privacy&#34;&gt;&lt;a href=&#34;#Privacy&#34; class=&#34;headerlink&#34; title=&#34;Privacy&#34;&gt;&lt;/a&gt;Privacy&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Godinho de Matos, Miguel, and Idris Adjerid. “&lt;em&gt;Consumer consent and firm targeting after GDPR: The case of a large telecom provider.&lt;/em&gt;“ Management Science (2021). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4054?af=R&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Heng Xu, Nan Zhang (2022) From Contextualizing to Context Theorizing: Assessing Context Effects in Privacy Research. Management Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mnsc.2021.4249&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Theory-of-Acceptance&#34;&gt;&lt;a href=&#34;#Theory-of-Acceptance&#34; class=&#34;headerlink&#34; title=&#34;Theory of Acceptance&#34;&gt;&lt;/a&gt;Theory of Acceptance&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Dwivedi, Yogesh K., et al. “A meta-analysis based modified unified theory of acceptance and use of technology (meta-UTAUT): a review of emerging literature.” Current opinion in psychology 36 (2020): 13-18. &lt;a href=&#34;https://doi.org/10.1016/j.copsyc.2020.03.008&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blut, Markus, et al. “Meta-Analysis of the Unified Theory of Acceptance and Use of Technology (UTAUT): Challenging its Validity and Charting a Research Agenda in the Red Ocean,” Journal of the Association for Information Systems (2022), 23(1), 13-95. &lt;a href=&#34;https://aisel.aisnet.org/jais/vol23/iss1/10&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Fake-News-on-Social-Media&#34;&gt;&lt;a href=&#34;#Fake-News-on-Social-Media&#34; class=&#34;headerlink&#34; title=&#34;Fake News on Social Media&#34;&gt;&lt;/a&gt;Fake News on Social Media&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Wang, Shuting, Min-Seok Pang, and Paul A. Pavlou. “Cure or Poison? Identity Verification and the Posting of Fake News on Social Media.” &lt;em&gt;Journal of Management Information Systems&lt;/em&gt; 38.4 (2021): 1011-1038. &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1990615&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Horner, Christy Galletta, et al. “Emotions: The Unexplored Fuel of Fake News on Social Media.” &lt;em&gt;Journal of Management Information Systems&lt;/em&gt; 38.4 (2021): 1039-1066. &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1990610&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Deng, Bingjie, and Michael Chau. “The Effect of the Expressed Anger and Sadness on Online News Believability.” &lt;em&gt;Journal of Management Information Systems&lt;/em&gt; 38.4 (2021): 959-988. &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990607&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Turel, Ofir, and Babajide Osatuyi. “Biased Credibility and Sharing of Fake News on Social Media: Considering Peer Context and Self-Objectivity State.” &lt;em&gt;Journal of Management Information Systems&lt;/em&gt; 38.4 (2021): 931-958. &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1990614&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ng, Ka Chung, Jie Tang, and Dongwon Lee. “The Effect of Platform Intervention Policies on Fake News Dissemination and Survival: An Empirical Examination.” &lt;em&gt;Journal of Management Information Systems&lt;/em&gt; 38.4 (2021): 898-930. &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990612&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;George, Jordana, Natalie Gerhart, and Russell Torres. “Uncovering the Truth about Fake News: A Research Model Grounded in Multi-Disciplinary Literature.” &lt;em&gt;Journal of Management Information Systems&lt;/em&gt; 38.4 (2021): 1067-1094. &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/07421222.2021.1990608&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mohamed Mostagir, Asuman Ozdaglar, James Siderius (2022) When Is Society Susceptible to Manipulation?. Management Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mnsc.2021.4265&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jackie London Jr., Siyuan Li, Heshan Sun (2022) Seems Legit: An Investigation of the Assessing and Sharing of Unverifiable Messages on Online Social Networks. Information Systems Research 0(0). &lt;a href=&#34;https://doi.org/10.1287/isre.2021.1095&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Social-Media-Marketing&#34;&gt;&lt;a href=&#34;#Social-Media-Marketing&#34; class=&#34;headerlink&#34; title=&#34;Social Media Marketing&#34;&gt;&lt;/a&gt;Social Media Marketing&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Tingting Nian, Arun Sundararajan (2022) Social Media Marketing, Quality Signaling, and the Goldilocks Principle. Information Systems Research 0(0). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1067?af=R&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jens Foerderer, Sebastian W. Schuetz (2022) Data Breach Announcements and Stock Market Reactions: A Matter of Timing?. Management Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mnsc.2021.4264&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Online-Reviews&#34;&gt;&lt;a href=&#34;#Online-Reviews&#34; class=&#34;headerlink&#34; title=&#34;Online Reviews&#34;&gt;&lt;/a&gt;Online Reviews&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Limin Fang (2022) The Effects of Online Review Platforms on Restaurant Revenue, Consumer Learning, and Welfare. Management Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mnsc.2021.4279&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jinghui (Jove) Hou, Xiao Ma (2022) Space Norms for Constructing Quality Reviews on Online Consumer Review Sites. Information Systems Research 0(0). &lt;a href=&#34;https://doi.org/10.1287/isre.2022.1102&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Gamification&#34;&gt;&lt;a href=&#34;#Gamification&#34; class=&#34;headerlink&#34; title=&#34;Gamification&#34;&gt;&lt;/a&gt;Gamification&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Behnaz Bojd, Xiaolong Song, Yong Tan, Xiangbin Yan (2022) Gamified Challenges in Online Weight-Loss Communities. Information Systems Research 0(0). &lt;a href=&#34;https://doi.org/10.1287/isre.2021.1081&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Peer-Influence&#34;&gt;&lt;a href=&#34;#Peer-Influence&#34; class=&#34;headerlink&#34; title=&#34;Peer Influence&#34;&gt;&lt;/a&gt;Peer Influence&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Jung, JaeHwuen, et al. “&lt;em&gt;Words Matter! Toward a Prosocial Call-to-Action for Online Referral: Evidence from Two Field Experiments.&lt;/em&gt;“ Information Systems Research (2020). &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2019.0873&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bryan Bollinger, Kenneth Gillingham, A. Justin Kirkpatrick, Steven Sexton (2022) Visibility and Peer Influence in Durable Good Adoption. Marketing Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mksc.2021.1306&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Technical-Model-Design-Science&#34;&gt;&lt;a href=&#34;#Technical-Model-Design-Science&#34; class=&#34;headerlink&#34; title=&#34;Technical Model &amp;#x2F; Design Science&#34;&gt;&lt;/a&gt;Technical Model &amp;#x2F; Design Science&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&#34;Reinforcement-Learning-1&#34;&gt;&lt;a href=&#34;#Reinforcement-Learning-1&#34; class=&#34;headerlink&#34; title=&#34;Reinforcement Learning&#34;&gt;&lt;/a&gt;Reinforcement Learning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kaelbling, Leslie Pack, Michael L. Littman, and Andrew W. Moore. “&lt;em&gt;Reinforcement learning: A survey.&lt;/em&gt;“ Journal of artificial intelligence research 4 (1996): 237-285. &lt;a href=&#34;https://www.jair.org/index.php/jair/article/view/10166&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Arulkumaran, Kai, et al. “&lt;em&gt;Deep reinforcement learning: A brief survey.&lt;/em&gt;“ IEEE Signal Processing Magazine 34.6 (2017): 26-38. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8103164&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Li, Yuxi. “&lt;em&gt;Deep reinforcement learning.&lt;/em&gt;“ arXiv preprint arXiv:1810.06339 (2018). &lt;a href=&#34;https://arxiv.org/abs/1810.06339&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Li, Yuxi. “&lt;em&gt;Reinforcement learning applications.&lt;/em&gt;“ arXiv preprint arXiv:1908.06973 (2019). &lt;a href=&#34;https://arxiv.org/abs/1908.06973&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Liebman, Elad, Maytal Saar-Tsechansky, and Peter Stone. “&lt;em&gt;The Right Music at the Right Time: Adaptive Personalized Playlists Based on Sequence Modeling.&lt;/em&gt;“ MIS Quarterly 43.3 (2019). &lt;a href=&#34;https://misq.org/the-right-music-at-the-right-time-adaptive-personalized-playlists-based-on-sequence-modeling.html&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wang, Hao-nan, et al. “&lt;em&gt;Deep reinforcement learning: a survey.&lt;/em&gt;“ Frontiers of Information Technology &amp;amp; Electronic Engineering (2020): 1-19. &lt;a href=&#34;https://link.springer.com/article/10.1631/FITEE.1900533&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parker-Holder, Jack, et al. “Automated Reinforcement Learning (AutoRL): A Survey and Open Problems.” &lt;em&gt;arXiv preprint arXiv:2201.03916&lt;/em&gt; (2022). &lt;a href=&#34;https://arxiv.org/abs/2201.03916&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Self-Supervised-Learning&#34;&gt;&lt;a href=&#34;#Self-Supervised-Learning&#34; class=&#34;headerlink&#34; title=&#34;Self-Supervised Learning&#34;&gt;&lt;/a&gt;Self-Supervised Learning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Jing, Longlong, and Yingli Tian. “Self-supervised visual feature learning with deep neural networks: A survey.” &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt; 43.11 (2020): 4037-4058. &lt;a href=&#34;https://doi.org/10.1109/TPAMI.2020.2992393&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Xie, Yaochen, et al. “Self-supervised learning of graph neural networks: A unified review.” &lt;em&gt;arXiv preprint arXiv:2102.10757&lt;/em&gt; (2021). &lt;a href=&#34;https://arxiv.org/abs/2102.10757&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Liu, Yixin, et al. “Graph self-supervised learning: A survey.” &lt;em&gt;arXiv preprint arXiv:2103.00111&lt;/em&gt; (2021). &lt;a href=&#34;https://arxiv.org/abs/2103.00111&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jaiswal, Ashish, et al. “A survey on contrastive self-supervised learning.” &lt;em&gt;Technologies&lt;/em&gt; 9.1 (2021): 2. &lt;a href=&#34;https://doi.org/10.3390/technologies9010002&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Liu, Xiao, et al. “Self-supervised learning: Generative or contrastive.” &lt;em&gt;IEEE Transactions on Knowledge and Data Engineering&lt;/em&gt; (2021). &lt;a href=&#34;https://doi.ieeecomputersociety.org/10.1109/TKDE.2021.3090866&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Transfer-Learning-1&#34;&gt;&lt;a href=&#34;#Transfer-Learning-1&#34; class=&#34;headerlink&#34; title=&#34;Transfer Learning&#34;&gt;&lt;/a&gt;Transfer Learning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Pan, Sinno Jialin, and Qiang Yang. “A survey on transfer learning.” &lt;em&gt;IEEE Transactions on knowledge and data engineering&lt;/em&gt; 22.10 (2009): 1345-1359. &lt;a href=&#34;https://doi.org/10.1109/TKDE.2009.191&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weiss, Karl, Taghi M. Khoshgoftaar, and DingDing Wang. “A survey of transfer learning.” &lt;em&gt;Journal of Big data&lt;/em&gt; 3.1 (2016): 1-40. &lt;a href=&#34;https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tan, Chuanqi, et al. “A survey on deep transfer learning.” &lt;em&gt;International conference on artificial neural networks&lt;/em&gt;. Springer, Cham, 2018. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-01424-7_27&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhuang, Fuzhen, et al. “A comprehensive survey on transfer learning.” &lt;em&gt;Proceedings of the IEEE&lt;/em&gt; 109.1 (2020): 43-76. &lt;a href=&#34;https://doi.org/10.1109/JPROC.2020.3004555&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Differential-Privacy&#34;&gt;&lt;a href=&#34;#Differential-Privacy&#34; class=&#34;headerlink&#34; title=&#34;Differential Privacy&#34;&gt;&lt;/a&gt;Differential Privacy&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Dwork, Cynthia, et al. “&lt;em&gt;Calibrating noise to sensitivity in private data analysis.&lt;/em&gt;“ Theory of cryptography conference. Springer, Berlin, Heidelberg, 2006. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/11681878_14&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zheng, Qinqing, et al. “&lt;em&gt;Sharp Composition Bounds for Gaussian Differential Privacy via Edgeworth Expansion.&lt;/em&gt;“ arXiv preprint arXiv:2003.04493 (2020). &lt;a href=&#34;https://arxiv.org/abs/1911.11607&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Goodfellow, Ian. “Efficient per-example gradient computations.” arXiv preprint arXiv:1510.01799 (2015). &lt;a href=&#34;https://arxiv.org/abs/1510.01799&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Abadi, Martin, et al. “&lt;em&gt;Deep learning with differential privacy.&lt;/em&gt;“ Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security. 2016. &lt;a href=&#34;https://arxiv.org/abs/1607.00133&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mironov, Ilya. “&lt;em&gt;Rényi differential privacy.&lt;/em&gt;“ 2017 IEEE 30th Computer Security Foundations Symposium (CSF). IEEE, 2017. &lt;a href=&#34;https://arxiv.org/abs/1702.07476&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;McMahan, H. Brendan, et al. “&lt;em&gt;A general approach to adding differential privacy to iterative training procedures.&lt;/em&gt;“ arXiv preprint arXiv:1812.06210 (2018). &lt;a href=&#34;https://arxiv.org/abs/1812.06210&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mironov, Ilya, Kunal Talwar, and Li Zhang. “&lt;em&gt;Rényi  Differential Privacy of the Sampled Gaussian Mechanism.&lt;/em&gt;“ arXiv preprint arXiv:1908.10530 (2019). &lt;a href=&#34;https://arxiv.org/abs/1908.10530&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dwork, Cynthia, and Aaron Roth. “&lt;em&gt;The algorithmic foundations of differential privacy&lt;/em&gt;.” Foundations and Trends in Theoretical Computer Science 9.3-4 (2014): 211-407. &lt;a href=&#34;https://www.tau.ac.il/~saharon/BigData2015/privacybook.pdf&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dwork, Cynthia, and Adam Smith. “&lt;em&gt;Differential privacy for statistics: What we know and what we want to learn.&lt;/em&gt;“ Journal of Privacy and Confidentiality 1.2 (2010). &lt;a href=&#34;https://journalprivacyconfidentiality.org/index.php/jpc/article/view/570&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ji, Zhanglong, Zachary C. Lipton, and Charles Elkan. “&lt;em&gt;Differential privacy and machine learning: a survey and review&lt;/em&gt;.” arXiv preprint arXiv:1412.7584 (2014). &lt;a href=&#34;https://arxiv.org/abs/1412.7584&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jiang, Honglu, et al. “&lt;em&gt;Differential Privacy and Its Applications in Social Network Analysis: A Survey&lt;/em&gt;.” arXiv preprint arXiv:2010.02973 (2020). &lt;a href=&#34;https://arxiv.org/abs/2010.02973&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yang, Mengmeng, et al. “&lt;em&gt;Local differential privacy and its applications: A comprehensive survey&lt;/em&gt;.” arXiv preprint arXiv:2008.03686 (2020). &lt;a href=&#34;https://arxiv.org/abs/2008.03686&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Explainable-ML-DL-AI&#34;&gt;&lt;a href=&#34;#Explainable-ML-DL-AI&#34; class=&#34;headerlink&#34; title=&#34;Explainable ML &amp;#x2F; DL &amp;#x2F; AI&#34;&gt;&lt;/a&gt;Explainable ML &amp;#x2F; DL &amp;#x2F; AI&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Arrieta, Alejandro Barredo, et al. “&lt;em&gt;Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI.&lt;/em&gt;“ Information Fusion 58 (2020): 82-115. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1566253519308103&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lipton, Zachary C. “&lt;em&gt;The mythos of model interpretability.&lt;/em&gt;“ Queue 16.3 (2018): 31-57. &lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3236386.3241340&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Angelino, Elaine, et al. “Learning certifiably optimal rule lists for categorical data.” &lt;em&gt;arXiv preprint arXiv:1704.01701&lt;/em&gt; (2017). &lt;a href=&#34;https://arxiv.org/abs/1704.01701#&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wang, Zhuo, et al. “Scalable Rule-Based Representation Learning for Interpretable Classification.” &lt;em&gt;arXiv preprint arXiv:2109.15103&lt;/em&gt; (2021). &lt;a href=&#34;https://arxiv.org/abs/2109.15103&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Molnar, Christoph. &lt;em&gt;Interpretable machine learning&lt;/em&gt;. 2020. &lt;a href=&#34;https://christophm.github.io/interpretable-ml-book/&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Text-Summarization&#34;&gt;&lt;a href=&#34;#Text-Summarization&#34; class=&#34;headerlink&#34; title=&#34;Text Summarization&#34;&gt;&lt;/a&gt;Text Summarization&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Rush, Alexander M., Sumit Chopra, and Jason Weston. “&lt;em&gt;A neural attention model for abstractive sentence summarization.&lt;/em&gt;“ arXiv preprint arXiv:1509.00685 (2015). &lt;a href=&#34;https://arxiv.org/abs/1509.00685&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chen, Yen-Chun, and Mohit Bansal. “&lt;em&gt;Fast abstractive summarization with reinforce-selected sentence rewriting.&lt;/em&gt;“ arXiv preprint arXiv:1805.11080 (2018). &lt;a href=&#34;https://arxiv.org/abs/1805.11080&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gehrmann, Sebastian, Yuntian Deng, and Alexander M. Rush. “&lt;em&gt;Bottom-up abstractive summarization.&lt;/em&gt;“ arXiv preprint arXiv:1808.10792 (2018). &lt;a href=&#34;https://arxiv.org/abs/1808.10792&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Graph-Neural-Network&#34;&gt;&lt;a href=&#34;#Graph-Neural-Network&#34; class=&#34;headerlink&#34; title=&#34;Graph Neural Network&#34;&gt;&lt;/a&gt;Graph Neural Network&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kipf, T. N. “&lt;em&gt;Deep learning with graph-structured representations.&lt;/em&gt;“ (2020). &lt;a href=&#34;https://pure.uva.nl/ws/files/46900201/Thesis.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wu, Zonghan, et al. “&lt;em&gt;A comprehensive survey on graph neural networks.&lt;/em&gt;“ IEEE Transactions on Neural Networks and Learning Systems (2020). &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9046288?casa_token=CHO5GWiPHY8AAAAA:-h-OKzI47m0fMC0d9Vaj4PEDrSF2JaQ84sHP7_KJ7dw1Yd9EzAUKv_DUmBVg_JdRXR0xDEJcpjg&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhou, Jie, et al. “&lt;em&gt;Graph neural networks: A review of methods and applications.&lt;/em&gt;“ arXiv preprint arXiv:1812.08434 (2018). &lt;a href=&#34;https://arxiv.org/abs/1812.08434&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhang, Chuxu, et al. “&lt;em&gt;Heterogeneous graph neural network.&lt;/em&gt;“ Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery &amp;amp; Data Mining. 2019. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3292500.3330961&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wang, Xiao, et al. “&lt;em&gt;Heterogeneous graph attention network.&lt;/em&gt;“ The World Wide Web Conference. 2019. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3308558.3313562&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hu, Ziniu, et al. “&lt;em&gt;Heterogeneous graph transformer.&lt;/em&gt;“ Proceedings of The Web Conference 2020. 2020. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3366423.3380027&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Graph-Embedding&#34;&gt;&lt;a href=&#34;#Graph-Embedding&#34; class=&#34;headerlink&#34; title=&#34;Graph Embedding&#34;&gt;&lt;/a&gt;Graph Embedding&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Goyal, Palash, and Emilio Ferrara. “&lt;em&gt;Graph embedding techniques, applications, and performance: A survey.&lt;/em&gt;“ Knowledge-Based Systems 151 (2018): 78-94. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0950705118301540?casa_token=WgM1v1dCs0gAAAAA:z3R22qL6tLu8jVi85RQvyYrW9KMMFsh33Q_7msMwXeJxDZbU2j_G9rtuLW-B7Ntd8w11hbgdMyU&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Active-Learning&#34;&gt;&lt;a href=&#34;#Active-Learning&#34; class=&#34;headerlink&#34; title=&#34;Active Learning&#34;&gt;&lt;/a&gt;Active Learning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Aggarwal, C. C., Kong, X., Gu, Q., Han, J., &amp;amp; Yu, P. S. (2014). “&lt;em&gt;Active learning: A survey&lt;/em&gt;“. In Data Classification: Algorithms and Applications (pp. 571-605). CRC Press. &lt;a href=&#34;https://doi.org/10.1201/b17320&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ren, Pengzhen, et al. “&lt;em&gt;A Survey of Deep Active Learning.&lt;/em&gt;“ ArXiv:2009.00236 [Cs, Stat], Aug. 2020. arXiv.org. &lt;a href=&#34;http://arxiv.org/abs/2009.00236&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Atahan, Pelin, and Sumit Sarkar. “&lt;em&gt;Accelerated learning of user profiles.&lt;/em&gt;“ Management Science 57.2 (2011): 215-239. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1100.1266&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Label-Noise&#34;&gt;&lt;a href=&#34;#Label-Noise&#34; class=&#34;headerlink&#34; title=&#34;Label Noise&#34;&gt;&lt;/a&gt;Label Noise&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Han, Bo, et al. “A survey of label-noise representation learning: Past, present and future.” arXiv preprint arXiv:2011.04406 (2020). &lt;a href=&#34;https://arxiv.org/abs/2011.04406&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Graphical-Causality&#34;&gt;&lt;a href=&#34;#Graphical-Causality&#34; class=&#34;headerlink&#34; title=&#34;Graphical Causality&#34;&gt;&lt;/a&gt;Graphical Causality&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Bernhard Schölkopf, et al. “&lt;em&gt;Towards Causal Representation Learning&lt;/em&gt;.” (2021). &lt;a href=&#34;https://arxiv.org/abs/2102.11107&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Recommendation-Systems-1&#34;&gt;&lt;a href=&#34;#Recommendation-Systems-1&#34; class=&#34;headerlink&#34; title=&#34;Recommendation Systems&#34;&gt;&lt;/a&gt;Recommendation Systems&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kunaver, Matevž, and Tomaž Požrl. “Diversity in recommender systems–A survey.” &lt;em&gt;Knowledge-based systems&lt;/em&gt; 123 (2017): 154-162. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0950705117300680&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kaminskas, Marius, and Derek Bridge. “Diversity, serendipity, novelty, and coverage: a survey and empirical analysis of beyond-accuracy objectives in recommender systems.” &lt;em&gt;ACM Transactions on Interactive Intelligent Systems (TiiS)&lt;/em&gt; 7.1 (2016): 1-42. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/2926720&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wu, Qiong, et al. “Recent advances in diversified recommendation.” &lt;em&gt;arXiv preprint arXiv:1905.06589&lt;/em&gt; (2019). &lt;a href=&#34;https://arxiv.org/abs/1905.06589&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Anelli, Vito Walter, et al. “Elliot: a comprehensive and rigorous framework for reproducible recommender systems evaluation.” &lt;em&gt;Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval&lt;/em&gt;. 2021. &lt;a href=&#34;https://doi.org/10.1145/3404835.3463245&#34;&gt;source&lt;/a&gt; &lt;a href=&#34;https://github.com/sisinflab/elliot&#34;&gt;code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Si, Zihua et al. “A Model-Agnostic Causal Learning Framework for Recommendation using Search Data.” (2022). &lt;a href=&#34;https://arxiv.org/abs/2202.04514&#34;&gt;source&lt;/a&gt; &lt;a href=&#34;https://github.com/Ethan00Si/Instrumental-variables-for-recommendation&#34;&gt;code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Attacking-Recommendation-Systems&#34;&gt;&lt;a href=&#34;#Attacking-Recommendation-Systems&#34; class=&#34;headerlink&#34; title=&#34;Attacking Recommendation Systems&#34;&gt;&lt;/a&gt;Attacking Recommendation Systems&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Su, Xue-Feng, Hua-Jun Zeng, and Zheng Chen. “Finding group shilling in recommendation system.” &lt;em&gt;Special interest tracks and posters of the 14th international conference on World Wide Web&lt;/em&gt;. 2005. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/1062745.1062818&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;O’Donovan, John, and Barry Smyth. “Is trust robust? An analysis of trust-based recommendation.” &lt;em&gt;Proceedings of the 11th international conference on Intelligent user interfaces&lt;/em&gt;. 2006. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/1111449.1111476&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hurley, Neil J., Michael P. O’Mahony, and Guenole CM Silvestre. “Attacking recommender systems: A cost-benefit analysis.” &lt;em&gt;IEEE Intelligent Systems&lt;/em&gt; 22.3 (2007): 64-68. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/4216982&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Patel, Krupa, et al. “A state of art survey on shilling attack in collaborative filtering based recommendation system.” &lt;em&gt;Proceedings of First International Conference on Information and Communication Technology for Intelligent Systems: Volume 1&lt;/em&gt;. Springer, Cham, 2016. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-30933-0_38&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fang, Minghong, et al. “Poisoning attacks to graph-based recommender systems.” &lt;em&gt;Proceedings of the 34th Annual Computer Security Applications Conference&lt;/em&gt;. 2018. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3274694.3274706&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hu, Rui, et al. “Targeted poisoning attacks on social recommender systems.” &lt;em&gt;2019 IEEE Global Communications Conference (GLOBECOM)&lt;/em&gt;. IEEE, 2019. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9013539&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhang, Hengtong, et al. “Practical data poisoning attack against next-item recommendation.” &lt;em&gt;Proceedings of The Web Conference 2020&lt;/em&gt;. 2020. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3366423.3379992&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Song, Junshuai, et al. “Poisonrec: an adaptive data poisoning framework for attacking black-box recommender systems.” &lt;em&gt;2020 IEEE 36th International Conference on Data Engineering (ICDE)&lt;/em&gt;. IEEE, 2020. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9101655&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wu, Zih-Wun, Chiao-Ting Chen, and Szu-Hao Huang. “Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning.” &lt;em&gt;Neural Computing and Applications&lt;/em&gt; (2021): 1-19. &lt;a href=&#34;https://link.springer.com/article/10.1007/s00521-021-06573-8&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chen, Liang, et al. “Data poisoning attacks on neighborhood‐based recommender systems.” &lt;em&gt;Transactions on Emerging Telecommunications Technologies&lt;/em&gt; 32.6 (2021): e3872. &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/ett.3872&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhang, Hengtong, et al. “Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data.” &lt;em&gt;Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp;amp; Data Mining&lt;/em&gt;. 2021. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3447548.3467233&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fan, Wenqi, et al. “Attacking Black-box Recommendations via Copying Cross-domain User Profiles.” &lt;em&gt;2021 IEEE 37th International Conference on Data Engineering (ICDE)&lt;/em&gt;. IEEE, 2021. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9458627&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;User-Item-Matrix-Factorization&#34;&gt;&lt;a href=&#34;#User-Item-Matrix-Factorization&#34; class=&#34;headerlink&#34; title=&#34;User-Item Matrix Factorization&#34;&gt;&lt;/a&gt;User-Item Matrix Factorization&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Han, Soyeon Caren, et al. “GLocal-K: Global and Local Kernels for Recommender Systems.” &lt;em&gt;Proceedings of the 30th ACM International Conference on Information &amp;amp; Knowledge Management&lt;/em&gt;. 2021. &lt;a href=&#34;https://doi.org/10.1145/3459637.3482112&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Debias&#34;&gt;&lt;a href=&#34;#Debias&#34; class=&#34;headerlink&#34; title=&#34;Debias&#34;&gt;&lt;/a&gt;Debias&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Schnabel, Tobias, et al. “&lt;em&gt;Recommendations as treatments: Debiasing learning and evaluation.&lt;/em&gt;“ international conference on machine learning. PMLR, 2016. &lt;a href=&#34;http://proceedings.mlr.press/v48/schnabel16.html&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;Chen, Jiawei, et al. “&lt;em&gt;AutoDebias: Learning to Debias for Recommendation.&lt;/em&gt;“ arXiv preprint arXiv:2105.04170 (2021). &lt;a href=&#34;https://arxiv.org/abs/2105.04170&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://jiawei-chen.github.io/&#34;&gt;Jiawei Chen&lt;/a&gt; on github.com provides a repository at &lt;a href=&#34;https://github.com/jiawei-chen/RecDebiasing&#34;&gt;jiawei-chen/RecDebiasing&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;Lagrangian-Relaxation&#34;&gt;&lt;a href=&#34;#Lagrangian-Relaxation&#34; class=&#34;headerlink&#34; title=&#34;Lagrangian Relaxation&#34;&gt;&lt;/a&gt;Lagrangian Relaxation&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Fisher, Marshall L. “&lt;em&gt;The Lagrangian relaxation method for solving integer programming problems.&lt;/em&gt;“ Management science 27.1 (1981): 1-18. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.27.1.1&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ghoshal, Abhijeet, et al. “&lt;em&gt;Hiding Sensitive Information when Sharing Distributed Transactional Data.&lt;/em&gt;“ Information systems research 31.2 (2020): 473-490. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2019.0898&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Column-Generation&#34;&gt;&lt;a href=&#34;#Column-Generation&#34; class=&#34;headerlink&#34; title=&#34;Column Generation&#34;&gt;&lt;/a&gt;Column Generation&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Menon, Syam, and Sumit Sarkar. “&lt;em&gt;Privacy and Big Data: Scalable Approaches to Sanitize Large Transactional Databases for Sharing.&lt;/em&gt;“ MIS Quarterly 40.4 (2016). &lt;a href=&#34;https://misq.org/privacy-and-big-data-scalable-approaches-to-sanitize-large-transactional-databases-for-sharing.html&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dash, Sanjeeb, Oktay Günlük, and Dennis Wei. “&lt;em&gt;Boolean decision rules via column generation.&lt;/em&gt;“ arXiv preprint arXiv:1805.09901 (2018). &lt;a href=&#34;https://arxiv.org/abs/1805.09901&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Decision-Under-Uncertainty&#34;&gt;&lt;a href=&#34;#Decision-Under-Uncertainty&#34; class=&#34;headerlink&#34; title=&#34;Decision Under Uncertainty&#34;&gt;&lt;/a&gt;Decision Under Uncertainty&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Sen, Suvrajeet, and Julia L. Higle. “&lt;em&gt;An introductory tutorial on stochastic linear programming models.&lt;/em&gt;“ Interfaces 29.2 (1999): 33-61. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/inte.29.2.33&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Probabilistic-Reasoning&#34;&gt;&lt;a href=&#34;#Probabilistic-Reasoning&#34; class=&#34;headerlink&#34; title=&#34;Probabilistic Reasoning&#34;&gt;&lt;/a&gt;Probabilistic Reasoning&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Li, Zhepeng, et al. “&lt;em&gt;Utility-based link recommendation for online social networks.&lt;/em&gt;“ Management Science 63.6 (2017): 1938-1952. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2446&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ghoshal, Abhijeet, Syam Menon, and Sumit Sarkar. “&lt;em&gt;Recommendations using information from multiple association rules: A probabilistic approach.&lt;/em&gt;“ Information Systems Research 26.3 (2015): 532-551. &lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/isre.2015.0583&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Agent-based-Modeling-Simulation&#34;&gt;&lt;a href=&#34;#Agent-based-Modeling-Simulation&#34; class=&#34;headerlink&#34; title=&#34;Agent-based Modeling &amp;amp; Simulation&#34;&gt;&lt;/a&gt;Agent-based Modeling &amp;amp; Simulation&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Bonabeau, Eric. “&lt;em&gt;Agent-based modeling: Methods and techniques for simulating human systems.&lt;/em&gt;“ Proceedings of the national academy of sciences 99.suppl 3 (2002): 7280-7287. &lt;a href=&#34;https://www.pnas.org/content/99/suppl_3/7280&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Macal, Charles M., and Michael J. North. “&lt;em&gt;Tutorial on agent-based modeling and simulation&lt;/em&gt;.” Proceedings of the Winter Simulation Conference, 2005.. IEEE, 2005. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/1574234&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Railsback, Steven F., Steven L. Lytinen, and Stephen K. Jackson. “&lt;em&gt;Agent-based simulation platforms: Review and development recommendations.&lt;/em&gt;“ Simulation 82.9 (2006): 609-623. &lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/0037549706073695&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;An, Li. “&lt;em&gt;Modeling human decisions in coupled human and natural systems: Review of agent-based models&lt;/em&gt;.” Ecological Modelling 229 (2012): 25-36. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304380011003802&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Abar, Sameera, et al. “&lt;em&gt;Agent Based Modelling and Simulation tools: A review of the state-of-art software.&lt;/em&gt;“ Computer Science Review 24 (2017): 13-33. &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1574013716301198&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mladenov, Martin, et al. “RecSim NG: Toward Principled Uncertainty Modeling for Recommender Ecosystems.” &lt;em&gt;arXiv preprint arXiv:2103.08057&lt;/em&gt; (2021). &lt;a href=&#34;https://arxiv.org/abs/2103.08057&#34;&gt;source&lt;/a&gt; &lt;a href=&#34;https://ai.googleblog.com/2021/04/flexible-scalable-differentiable.html&#34;&gt;official webiste&lt;/a&gt; &lt;a href=&#34;https://github.com/google-research/recsim_ng&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Influence-Maximization&#34;&gt;&lt;a href=&#34;#Influence-Maximization&#34; class=&#34;headerlink&#34; title=&#34;Influence Maximization&#34;&gt;&lt;/a&gt;Influence Maximization&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Li, Yuchen, et al. “Influence maximization on social graphs: A survey.” IEEE Transactions on Knowledge and Data Engineering 30.10 (2018): 1852-1872. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8295265&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Banerjee, Suman, Mamata Jenamani, and Dilip Kumar Pratihar. “A survey on influence maximization in a social network.” Knowledge and Information Systems 62.9 (2020): 3417-3455. &lt;a href=&#34;https://arxiv.org/abs/1808.05502&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;De Nittis, Giuseppe, and Nicola Gatti. “How to maximize the spread of social influence: A survey.” arXiv preprint arXiv:1806.07757 (2018). &lt;a href=&#34;https://arxiv.org/abs/1806.07757&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Video-Content-Structuring&#34;&gt;&lt;a href=&#34;#Video-Content-Structuring&#34; class=&#34;headerlink&#34; title=&#34;Video Content Structuring&#34;&gt;&lt;/a&gt;Video Content Structuring&lt;/h2&gt;&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Scholarpedia provides a Wikipedia page at &lt;a href=&#34;http://www.scholarpedia.org/article/Video_Content_Structuring&#34;&gt;Video Content Structuring - Scholarpedia&lt;/a&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;h2 id=&#34;Topic-Modeling&#34;&gt;&lt;a href=&#34;#Topic-Modeling&#34; class=&#34;headerlink&#34; title=&#34;Topic Modeling&#34;&gt;&lt;/a&gt;Topic Modeling&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Jelodar, Hamed, et al. “&lt;em&gt;Latent Dirichlet allocation (LDA) and topic modeling: models, applications, a survey.&lt;/em&gt;“ &lt;em&gt;Multimedia Tools and Applications&lt;/em&gt; 78.11 (2019): 15169-15211. &lt;a href=&#34;https://link.springer.com/article/10.1007/s11042-018-6894-4&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Qiang, Jipeng, et al. “&lt;em&gt;Short text topic modeling techniques, applications, and performance: a survey.&lt;/em&gt;“ &lt;em&gt;IEEE Transactions on Knowledge and Data Engineering&lt;/em&gt; (2020). &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9086136&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vayansky, Ike, and Sathish AP Kumar. “&lt;em&gt;A review of topic modeling methods.&lt;/em&gt;“ &lt;em&gt;Information Systems&lt;/em&gt; 94 (2020): 101582. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0306437920300703&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kherwa, Pooja, and Poonam Bansal. “&lt;em&gt;Topic modeling: a comprehensive review.&lt;/em&gt;“ &lt;em&gt;EAI Endorsed transactions on scalable information systems&lt;/em&gt; 7.24 (2020). &lt;a href=&#34;http://eprints.eudl.eu/id/eprint/682/&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chauhan, Uttam, and Apurva Shah. “&lt;em&gt;Topic Modeling Using Latent Dirichlet allocation: A Survey.&lt;/em&gt;“ &lt;em&gt;ACM Computing Surveys (CSUR)&lt;/em&gt; 54.7 (2021): 1-35. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3462478&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Team&#34;&gt;&lt;a href=&#34;#Team&#34; class=&#34;headerlink&#34; title=&#34;Team&#34;&gt;&lt;/a&gt;Team&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Devine, Dennis J., and Jennifer L. Philips. “Do smarter teams do better: A meta-analysis of cognitive ability and team performance.” &lt;em&gt;Small group research&lt;/em&gt; 32.5 (2001): 507-532. &lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/104649640103200501&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kozlowski, Steve WJ, and Daniel R. Ilgen. “Enhancing the effectiveness of work groups and teams.” &lt;em&gt;Psychological science in the public interest&lt;/em&gt; 7.3 (2006): 77-124. &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1111/j.1529-1006.2006.00030.x&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wang, Xinyu, Zhou Zhao, and Wilfred Ng. “A comparative study of team formation in social networks.” &lt;em&gt;International conference on database systems for advanced applications&lt;/em&gt;. Springer, Cham, 2015. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-18120-2_23&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andrejczuk, Ewa, et al. “The composition and formation of effective teams: computer science meets organizational psychology.” &lt;em&gt;The Knowledge Engineering Review&lt;/em&gt; 33 (2018). &lt;a href=&#34;https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/composition-and-formation-of-effective-teams-computer-science-meets-organizational-psychology/79DBFF072E6FD82E5AF1FE1705E57C2C&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gómez-Zará, Diego, Leslie A. DeChurch, and Noshir S. Contractor. “A taxonomy of team-assembly systems: Understanding how people use technologies to form teams.” &lt;em&gt;Proceedings of the ACM on Human-Computer Interaction&lt;/em&gt; 4.CSCW2 (2020): 1-36. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3415252&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Juárez, Julio, Cipriano Santos, and Carlos A. Brizuela. “A Comprehensive Review and a Taxonomy Proposal of Team Formation Problems.” &lt;em&gt;ACM Computing Surveys (CSUR)&lt;/em&gt; 54.7 (2021): 1-33. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3465399&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Mobile-User-Behavior&#34;&gt;&lt;a href=&#34;#Mobile-User-Behavior&#34; class=&#34;headerlink&#34; title=&#34;Mobile User Behavior&#34;&gt;&lt;/a&gt;Mobile User Behavior&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Shaohui Wu, Yong Tan, Yubo Chen, Yitian (Sky) Liang (2022) How Is Mobile User Behavior Different?—A Hidden Markov Model of Cross-Mobile Application Usage Dynamics. Information Systems Research 0(0) &lt;a href=&#34;https://doi.org/10.1287/isre.2021.1093&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Dynamic-Pricing&#34;&gt;&lt;a href=&#34;#Dynamic-Pricing&#34; class=&#34;headerlink&#34; title=&#34;Dynamic Pricing&#34;&gt;&lt;/a&gt;Dynamic Pricing&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;N. Bora Keskin, Yuexing Li, Jing-Sheng Song (2022) Data-Driven Dynamic Pricing and Ordering with Perishable Inventory in a Changing Environment. Management Science 0(0). &lt;a href=&#34;https://doi.org/10.1287/mnsc.2021.4011&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Reliable-Prediction&#34;&gt;&lt;a href=&#34;#Reliable-Prediction&#34; class=&#34;headerlink&#34; title=&#34;Reliable Prediction&#34;&gt;&lt;/a&gt;Reliable Prediction&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Romano, Yaniv, Evan Patterson, and Emmanuel Candes. “Conformalized quantile regression.” &lt;em&gt;Advances in neural information processing systems&lt;/em&gt; 32 (2019). &lt;a href=&#34;https://proceedings.neurips.cc/paper/2019/hash/5103c3584b063c431bd1268e9b5e76fb-Abstract.html&#34;&gt;source&lt;/a&gt; &lt;a href=&#34;https://github.com/yromano/cqr&#34;&gt;code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sesia, Matteo, and Emmanuel J. Candès. “A comparison of some conformal quantile regression methods.” Stat 9.1 (2020): e261. &lt;a href=&#34;https://doi.org/10.1002/sta4.261&#34;&gt;source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/datawhalechina/easy-rl&#34;&gt;Model Agnostic Prediction Interval Estimator (MAPIE)&lt;/a&gt; is a python toolkit for prediction interval estimation.
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;p&gt;&lt;a style=&#34;background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px&#34; href=&#34;https://unsplash.com/@syinq?utm_medium=referral&amp;amp;utm_campaign=photographer-credit&amp;amp;utm_content=creditBadge&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from Susan Yin&#34;&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white&#34; viewBox=&#34;0 0 32 32&#34;&gt;&lt;title&gt;unsplash-logo&lt;/title&gt;&lt;path d=&#34;M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px&#34;&gt;thumbnail by Susan Yin&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="Ph.D." />
+        <category term="Research" />
+        <category term="MIS" />
+        <category term="IS" />
+        <category term="Management Information Systems" />
+        <category term="Information Systems" />
+        <category term="Reading" />
+        <category term="Publications" />
+        <updated>2020-04-22T01:21:43.000Z</updated>
+    </entry>
+</feed>

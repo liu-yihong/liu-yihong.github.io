@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.yihong-liu.com</id>
+    <title>Yihong Liu&#39;s Blog • Posts by &#34;calendar&#34; tag</title>
+    <link href="https://blog.yihong-liu.com" />
+    <updated>2022-03-12T17:24:31.000Z</updated>
+    <category term="JSOM" />
+    <category term="Ph.D." />
+    <category term="Notes" />
+    <category term="SQL" />
+    <category term="ITSS3300" />
+    <category term="Writing" />
+    <category term="Latex" />
+    <category term="Packages" />
+    <category term="PGF/TikZ" />
+    <category term="Job" />
+    <category term="Interview Experiences" />
+    <category term="Research" />
+    <category term="MIS" />
+    <category term="IS" />
+    <category term="Management Information Systems" />
+    <category term="Information Systems" />
+    <category term="Conference" />
+    <category term="Calendar" />
+    <category term="Math" />
+    <category term="Preliminary" />
+    <category term="Courses" />
+    <category term="Online Video Community" />
+    <category term="Bilibili" />
+    <category term="Business Model" />
+    <category term="Video Collaboration" />
+    <category term="哔哩哔哩" />
+    <category term="B站" />
+    <category term="商业模型" />
+    <category term="联合投稿" />
+    <category term="Personalized Ranking" />
+    <category term="Implicit Feedback" />
+    <category term="Reading" />
+    <category term="Publications" />
+    <entry>
+        <id>https://blog.yihong-liu.com/2022/03/12/MIS-Conference-Calendar/</id>
+        <title>MIS Conference Calendar</title>
+        <link rel="alternate" href="https://blog.yihong-liu.com/2022/03/12/MIS-Conference-Calendar/"/>
+        <content type="html">&lt;p&gt;Stay on Top of MIS Conference Deadlines with Ease!&lt;/p&gt;
+&lt;p&gt;Discover the Convenience of my Reliable MIS Conference Calendar!&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@charlesdeluvio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;charlesdeluvio&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/calendar?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;
+  &lt;/p&gt;
+</content>
+        <category term="Research" />
+        <category term="MIS" />
+        <category term="IS" />
+        <category term="Management Information Systems" />
+        <category term="Information Systems" />
+        <category term="Conference" />
+        <category term="Calendar" />
+        <updated>2022-03-12T17:24:31.000Z</updated>
+    </entry>
+</feed>

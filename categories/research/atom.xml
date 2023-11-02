@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.yihong-liu.com</id>
+    <title>Yihong Liu&#39;s Blog • Posts by &#34;research&#34; category</title>
+    <link href="https://blog.yihong-liu.com" />
+    <updated>2022-03-12T17:24:31.000Z</updated>
+    <category term="JSOM" />
+    <category term="Ph.D." />
+    <category term="Notes" />
+    <category term="SQL" />
+    <category term="ITSS3300" />
+    <category term="Writing" />
+    <category term="Latex" />
+    <category term="Packages" />
+    <category term="PGF/TikZ" />
+    <category term="Job" />
+    <category term="Interview Experiences" />
+    <category term="Research" />
+    <category term="MIS" />
+    <category term="IS" />
+    <category term="Management Information Systems" />
+    <category term="Information Systems" />
+    <category term="Conference" />
+    <category term="Calendar" />
+    <category term="Math" />
+    <category term="Preliminary" />
+    <category term="Courses" />
+    <category term="Online Video Community" />
+    <category term="Bilibili" />
+    <category term="Business Model" />
+    <category term="Video Collaboration" />
+    <category term="哔哩哔哩" />
+    <category term="B站" />
+    <category term="商业模型" />
+    <category term="联合投稿" />
+    <category term="Personalized Ranking" />
+    <category term="Implicit Feedback" />
+    <category term="Reading" />
+    <category term="Publications" />
+    <entry>
+        <id>https://blog.yihong-liu.com/2022/03/12/MIS-Conference-Calendar/</id>
+        <title>MIS Conference Calendar</title>
+        <link rel="alternate" href="https://blog.yihong-liu.com/2022/03/12/MIS-Conference-Calendar/"/>
+        <content type="html">&lt;p&gt;Stay on Top of MIS Conference Deadlines with Ease!&lt;/p&gt;
+&lt;p&gt;Discover the Convenience of my Reliable MIS Conference Calendar!&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@charlesdeluvio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;charlesdeluvio&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/calendar?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;
+  &lt;/p&gt;
+</content>
+        <category term="Research" />
+        <category term="MIS" />
+        <category term="IS" />
+        <category term="Management Information Systems" />
+        <category term="Information Systems" />
+        <category term="Conference" />
+        <category term="Calendar" />
+        <updated>2022-03-12T17:24:31.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.yihong-liu.com/2021/04/03/Understanding-Bilibili-s-Business-Model/</id>
+        <title>Understanding Bilibili&#39;s Business Model</title>
+        <link rel="alternate" href="https://blog.yihong-liu.com/2021/04/03/Understanding-Bilibili-s-Business-Model/"/>
+        <content type="html">&lt;p&gt;Bilibili is an iconic brand and a leading video community for young generations in China. This post includes my understadning and interpretation of Bilibili’s business model.&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;h2 id=&#34;Introduction&#34;&gt;&lt;a href=&#34;#Introduction&#34; class=&#34;headerlink&#34; title=&#34;Introduction&#34;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;Recent years have certified the rapid emergence and growth of online video communities, e.g. &lt;a href=&#34;https://youtube.com/&#34;&gt;YouTube.com&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/watch&#34;&gt;Facebook Watch&lt;/a&gt;, &lt;a href=&#34;https://www.tiktok.com/&#34;&gt;TikTok.com&lt;/a&gt;, and &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;, whose services mainly cover video publishing, experiencing, searching, commenting, tipping, marketing, and live-streaming through their Web-based platforms which are accessible via computers and mobile phones.&lt;br&gt;According to the &lt;a href=&#34;https://www.limelight.com/resources/market-research/state-of-online-video-2020/&#34;&gt;Limelight’s market research&lt;/a&gt; towards online video in 2020, viewers spend nearly eight hours per week on average in watching various types of video content, and online video consumption has been enlarged across all age groups.&lt;/p&gt;
+&lt;p&gt;This post focuses on &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;, an iconic and leading online video community for young generations in China. From her &lt;a href=&#34;https://ir.bilibili.com/static-files/98bfad59-0a57-467c-a3f4-e250c3bada4b&#34;&gt;2020 annual report&lt;/a&gt;, on average she attracted 202 million monthly active users and 1.2 billion daily video views in the fourth quarter, 5.1 billion monthly interactions, and 5.6 million monthly video submissions by 1.8 million monthly active content creators. This enormous and flourishing pool of users and content creators ensures revenue generation from affiliated mobile games, membership subscription, tipping, advertising, and online shopping.&lt;/p&gt;
+&lt;h2 id=&#34;Bilibili-com-An-Online-Video-Community&#34;&gt;&lt;a href=&#34;#Bilibili-com-An-Online-Video-Community&#34; class=&#34;headerlink&#34; title=&#34;Bilibili.com: An Online Video Community&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://bilibili.com/&#34;&gt;Bilibili.com&lt;/a&gt;: An Online Video Community&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;In this section, we dig into &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;, an iconic online video community for young Chinese generations, by approaching her from two aspects: an online video platform and a video-centered community.&lt;br&gt;The online video platform is where content creators publish their videos and users consume videos of their interest. And the social interactions among content creators and users consist of a video-centered community. Overall, an online video community is an online ecosystem among content creators and users around videos.&lt;br&gt;Then we graphically illustrate &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;‘s business model to demonstrate how &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; practices her commercialization efforts. Note that &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; provides mobile App and PC Website entrances, and we mainly exploit the mobile App in this post for clear demonstration and simplicity. &lt;/p&gt;
+&lt;h3 id=&#34;An-Online-Video-Platform&#34;&gt;&lt;a href=&#34;#An-Online-Video-Platform&#34; class=&#34;headerlink&#34; title=&#34;An Online Video Platform&#34;&gt;&lt;/a&gt;An Online Video Platform&lt;/h3&gt;&lt;hr&gt;
+&lt;div class=&#34;justified-gallery&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/asplatform.jpg&#34; alt=&#34;Platform&amp;#39;s Stakeholders: Users and Content Creators&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We walk through the details of how &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; operates as an online video platform in this section. As illustrated in the figure above, two main stakeholders get involved on this video platform: users and content creators. Content creators can upload their videos or start live-streaming, namely professional user generated video (PUGV), which are consumed by users. &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; also offers licensed contents, called occupationally generated videos (OGV), to users from third-party production companies, ranging from TV shows, movies, cartoon to anime.&lt;br&gt;Users can be categorized into three types. Viewers without registration can only watch PUGV.&lt;br&gt;Free registered membership gives users access to watch and comment in PUGV, follow and tip content creators, upload videos, and start live-streaming.&lt;br&gt;In addition to the free membership, premium membership comes with fees, allowing users to enjoy advanced PUGV (e.g., higher resolution, high dynamic range, Dolby audio), OGV, fancy comment emoji, and deals in mobile games and online shopping.&lt;br&gt;Note that content creators at least have free membership.&lt;/p&gt;
+&lt;div class=&#34;justified-gallery&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/homepage.jpg&#34; alt=&#34;App Home Page&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The above figure depicts the home page of &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;‘s mobile App. On the top, users can click the avatar and go to their profile page, search content of interests with keywords in the search box, and check private messages within the inbox.&lt;br&gt;At the bottom, five entrances appear.&lt;br&gt;The category page allows users to view content by predefined channels, e.g., anime, music, dance, video game, education, technology, daily life, food, animal, fashion, movies, and TV shows.&lt;br&gt;The feed page includes all content from users’ followed content creators and advertising.&lt;br&gt;The shopping page is a typical e-commerce site, supplying products related to anime, cartoons, and video games.&lt;br&gt;The profile page integrates users’ profile information, followers and followings, browsing history, favorites of content, uploaded content management, premium membership subscription, and App setting.&lt;br&gt;The rest of the home page is a video waterfall, i.e., a list of videos, which consists of banners, ordinary videos, sponsored videos, and advertising.&lt;/p&gt;
+&lt;div class=&#34;justified-gallery&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/videopage-nocol.jpg&#34; alt=&#34;Description Section of A Video Page&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Clicking on a video will be directed to a typical video page, demonstrated in the figure above. In the video description section, users can follow the focal content creator (e.g. CC1) and go to CC1’s personal page by clicking her avatar. CC1’s personal page has CC1’s basic information including self-introduction and numbers of followers and followings, and a list of all her uploaded videos. Users can also send feedback in the video page, e.g., like or dislike, tipping the focal content creator, adding the focal video into her favorites and sharing this video. The comment section functions as a discussion board, in which registered users can interact with each other by comments and replies.&lt;/p&gt;
+&lt;h3 id=&#34;A-Video-centered-Community&#34;&gt;&lt;a href=&#34;#A-Video-centered-Community&#34; class=&#34;headerlink&#34; title=&#34;A Video-centered Community&#34;&gt;&lt;/a&gt;A Video-centered Community&lt;/h3&gt;&lt;hr&gt;
+&lt;div class=&#34;justified-gallery&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/feedpage.jpg&#34; alt=&#34;App Feed Page&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; establishes its online community upon the social network between content creators and their followers, and discussion boards among users and content creators around videos.&lt;br&gt;Generally, users can click the follow button on a video display page or on the personal page of a content creator, as strong evidence of interest, to become a follower. By doing so, those followers will be notified on their mobile phones and feed page every time the followed content creator commits a new activity, e.g., tweets, live-streaming, or publishing a new video. In the feed page shown above, a user can browse all activities from her followed content creators ordered by posted time, and filter activities by tags. Moreover, a user can also post a tweet-like message, usually text with images, by clicking on the post button in the top-right corner. Note that a user can follow multiple content creators.&lt;/p&gt;
+&lt;div class=&#34;justified-gallery&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/videopage-cmt.jpg&#34; alt=&#34;Discussion Section of A Video Page&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The figure above uncovers the discussion board (“comments” section) of a video display page.&lt;br&gt;For every uploaded video, all registered users, including content creators, can interact with others in the comment section by leaving comments, replying to others’ comments, providing feedback (like or dislike) on comments, or sharing comments.&lt;br&gt;Comments are in a popularity-ranked sequence by default, or can be ranked by posted time. Taking the top-ranked comment, posted by User 1, in the figure above for example, it is the most popular one since it receives the highest number of likes in this video’s comment section. CC and User 3 replied to User 1 directly, and User 2 responded to the CC’s reply. Each interaction (comment or reply) can be modeled as a directed edge from the sender to the receiver, in a network derived from the discussion board.&lt;/p&gt;
+&lt;p&gt;Furthermore, &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; provides one-to-one private messages among registered users.&lt;/p&gt;
+&lt;h3 id=&#34;Bilibili-com‘s-Business-Model&#34;&gt;&lt;a href=&#34;#Bilibili-com‘s-Business-Model&#34; class=&#34;headerlink&#34; title=&#34;Bilibili.com‘s Business Model&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://bilibili.com/&#34;&gt;Bilibili.com&lt;/a&gt;‘s Business Model&lt;/h3&gt;&lt;hr&gt;
+&lt;div class=&#34;justified-gallery&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/bus-model.jpg&#34; alt=&#34;bilibili.com&amp;#39;s Business Model&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; operates this online video community to achieve her commercialization goal, explained in the previous figure.&lt;br&gt;Unregistered viewers come to &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; due to word-of-mouth (WOM) of funny content or searching for content of their interests. A multiple-choice quiz of 100 questions is mandatory to become a registered member without charge, within 60 minutes on community rules and knowledge about anime, cartoons, and video games. This membership exam hopes to ensure community etiquette, loyalty, and stickiness. Note that content creators at least have the free membership.&lt;br&gt;Registered users and content creators are retained by the online video community, i.e., interactions among content creators and users in social networks, and discussion boards around OGV and content creators’ uploaded PUGV.&lt;br&gt;Additionally, &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; provides auxiliary services for content creators, including influence and exposure promotion, monetization incentives, tutorials and seminars in video editing and recording, and data analysis for uploaded videos. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;‘s &lt;a href=&#34;https://ir.bilibili.com/static-files/98bfad59-0a57-467c-a3f4-e250c3bada4b&#34;&gt;2020 annual report&lt;/a&gt; says that the 3rd-month, 6th-month, 9th-month and 12th-month retention rate remained above 80%, for registered users who visited &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; in each month since 2018. The “retention rate” of users who visit &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; via mobile App or PC website in a given period, are to the percentage of these users who make at least one repeat visit after a certain duration; e.g., the “3rd-month retention rate” for users in a given month is the retention rate in the third month after the applicable month. &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; then extracted revenue from retained users with four major sources, including mobile games affiliation, value-added service (premium membership subscription and tipping), advertising, and e-commerce (online shopping).&lt;/p&gt;
+&lt;p&gt;Apparently, the success of &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;‘s commercialization depends heavily on the community vibrancy and participation of retained users and content creators.&lt;/p&gt;
+&lt;h2 id=&#34;Video-Collaboration&#34;&gt;&lt;a href=&#34;#Video-Collaboration&#34; class=&#34;headerlink&#34; title=&#34;Video Collaboration&#34;&gt;&lt;/a&gt;Video Collaboration&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;With the goal of boosting her online video community vibrancy, a feature called video collaboration was newly introduced on &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;justified-gallery&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/videopage-col.jpg&#34; alt=&#34;A Collaborated Video Page&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In addition to a video published by a single content creator, &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt; allows a team of content creators to collaborate on one video, whose display page shows all team members with usernames, avatars, roles labeled, following buttons, and links to their personal page.&lt;br&gt;The figure above shows the video display page of a collaborated video. For every team member, her personal page will exhibit this video, and all her followers will be notified of it once published via mobile phone notification and feed page. If a user follows multiple content creators in one team, this user will only receive one notification when this team newly publishes a video.&lt;/p&gt;
+&lt;p&gt;Stakeholders in this online video community can be benefitted with good collaboration on video production.&lt;br&gt;For participated content creators, a wider set of video skills can bring impossible content to life, more creators’ labor can lead to better content quality, and more followers’ being notified can increase video exposure and the chance of receiving followers.&lt;br&gt;For the online video community, more followers’ being notified can contribute to community vibrancy by increasing the opportunity of interactions among content creators and users, and content creators in teams could establish belongingness and loyalty to the community by working together.&lt;br&gt;And for users, more of them can be entertained and retained because of high content quality and vivacious community environment.&lt;/p&gt;
+&lt;p&gt;Note that before the introduction of video collaboration on &lt;a href=&#34;https://bilibili.com/&#34;&gt;bilibili.com&lt;/a&gt;, content creators could still collaborate offline and upload their joint work by one content creator as the way of individual video production and display. For instance, the collaborated video in the figure above can be uploaded by only content creator CC1 as the way of individual video without video collaboration. However, the additional benefits, e.g., all team members, i.e., CC2 and CC3, listed on the video display page and every follower notified, are not available without the video collaboration characteristic.&lt;br&gt;To boot, without video collaboration, CC1, CC2, and CC3 can separately publish this video, resulting in its exhibition on their personal page as individual work, and every follower will be notified. However, by doing so, community vibrancy metrics are also separately calculated for three videos of the same content but different uploaders, which decreases total video performance, the chance of video exposure, and the opportunity of attracting new followers, compared to the collaborated version. And for users who only follow CC1 but not CC2 or CC3, video collaboration can inform them of CC2 and CC3, and these users may become new followers of CC2 and CC3.&lt;br&gt;Moreover, content creators in this team would establish additional belongingness and loyalty to the community by working together.&lt;/p&gt;
+&lt;p&gt;&lt;a style=&#34;background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px&#34; href=&#34;https://unsplash.com/@victorhwn725?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from Victor He&#34;&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white&#34; viewBox=&#34;0 0 32 32&#34;&gt;&lt;title&gt;unsplash-logo&lt;/title&gt;&lt;path d=&#34;M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px&#34;&gt;thumbnail by Victor He&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="Ph.D." />
+        <category term="Research" />
+        <category term="Online Video Community" />
+        <category term="Bilibili" />
+        <category term="Business Model" />
+        <category term="Video Collaboration" />
+        <category term="哔哩哔哩" />
+        <category term="B站" />
+        <category term="商业模型" />
+        <category term="联合投稿" />
+        <updated>2021-04-03T05:24:23.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.yihong-liu.com/2020/06/26/Understanding-BPR-COFISET-and-BPRH/</id>
+        <title>Understanding BPR, COFISET and BPRH</title>
+        <link rel="alternate" href="https://blog.yihong-liu.com/2020/06/26/Understanding-BPR-COFISET-and-BPRH/"/>
+        <content type="html">&lt;p&gt;BPR, COFISET, and BPRH all focus on collaborative filtering with matrix factorization and implicit feedbacks. This task is different from 5-star rating estimation in a sense that only some users’ action behaviors (e.g. purchase, view, like, dislike) are available. &lt;/p&gt;
+&lt;p&gt;This post includes my understanding of these three models.&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;h1 id=&#34;TODO&#34;&gt;&lt;a href=&#34;#TODO&#34; class=&#34;headerlink&#34; title=&#34;TODO&#34;&gt;&lt;/a&gt;TODO&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; BPR&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Backgrounds for COFISET&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Backgrounds for BPRH&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; SGD for CIFISET and BPRH&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Implementation codes for BPRH in Jupyter Notebook on a small and simple example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Full Implementation codes for BPRH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;BPR&#34;&gt;&lt;a href=&#34;#BPR&#34; class=&#34;headerlink&#34; title=&#34;BPR&#34;&gt;&lt;/a&gt;BPR&lt;/h1&gt;&lt;hr&gt;
+&lt;div class=&#34;notification is-success is-size-6&#34;&gt;
+ &lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt; UNDER CONSTRUCTION &lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;Implementation&#34;&gt;&lt;a href=&#34;#Implementation&#34; class=&#34;headerlink&#34; title=&#34;Implementation&#34;&gt;&lt;/a&gt;Implementation&lt;/h2&gt;&lt;p&gt;You may find several verions of BPR implementations below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jokingcoco/BPR_Bayesian-Personalized-Ranking_MPR_Multiple-Pairwise-Ranking&#34;&gt;https://github.com/jokingcoco/BPR_Bayesian-Personalized-Ranking_MPR_Multiple-Pairwise-Ranking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/valerystrizh/bpr&#34;&gt;https://github.com/valerystrizh/bpr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lyst/lightfm&#34;&gt;https://github.com/lyst/lightfm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sh0416/bpr&#34;&gt;https://github.com/sh0416/bpr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/guoguibing/librec/search?q=BPR&amp;unscoped_q=BPR&#34;&gt;https://github.com/guoguibing/librec/search?q=BPR&amp;unscoped_q&amp;#x3D;BPR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;COFISET&#34;&gt;&lt;a href=&#34;#COFISET&#34; class=&#34;headerlink&#34; title=&#34;COFISET&#34;&gt;&lt;/a&gt;COFISET&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&#34;Item-sets-and-Pairwise-Preferences&#34;&gt;&lt;a href=&#34;#Item-sets-and-Pairwise-Preferences&#34; class=&#34;headerlink&#34; title=&#34;Item-sets and Pairwise Preferences&#34;&gt;&lt;/a&gt;Item-sets and Pairwise Preferences&lt;/h2&gt;
+
+An item-set is a set of items. A user $u$&#39;s preference over an item-set is a function of $u$&#39;s preferences on items in this item-set. For example, $u$&#39;s preference on item-set $\mathcal{P}$ can be $\hat{r}_{u \mathcal{P}} = |\mathcal{P}|^{-1} \sum_{i \in \mathcal{P}} \hat{r}_{ui}$. $\hat{r}_{ui}$ is $u$&#39;s estimated preference on item $i$.
+
+A user $u$&#39;s pairwise preference  over two item-sets $\mathcal{P}, \mathcal{A}$ is defined as $\hat{r}_{u \mathcal{P} \mathcal{A}} = \hat{r}_{u \mathcal{P}} - \hat{r}_{u \mathcal{A}}$. And in COFISET, the assumption of pairwise preference is $\hat{r}_{u \mathcal{P} \mathcal{A}} = \hat{r}_{u \mathcal{P}} - \hat{r}_{u \mathcal{A}} &gt; 0, \mathcal{P} \subseteq \mathcal{I}^{tr}_{u}, \mathcal{A} \subseteq \mathcal{I}^{tr} \setminus \mathcal{I}^{tr}_{u}$. $\mathcal{P} \subseteq \mathcal{I}^{tr}_{u}$ is a set of items of observed feedback from user $u$ and $\mathcal{A} \subseteq \mathcal{I}^{tr} \setminus \mathcal{I}^{tr}_{u}$ is a set of items without observed feedback from user $u$.
+
+
+
+&lt;h2 id=&#34;Objective-Function-and-Optimization&#34;&gt;&lt;a href=&#34;#Objective-Function-and-Optimization&#34; class=&#34;headerlink&#34; title=&#34;Objective Function and Optimization&#34;&gt;&lt;/a&gt;Objective Function and Optimization&lt;/h2&gt;&lt;p&gt;COFISET’s relaxed optimization for all users is &lt;/p&gt;
+
+
+$$ \min_{\Theta} \sum_{u \in \mathcal{U}^{tr}} \sum_{\mathcal{P} \subseteq \mathcal{I}_{u}^{tr}} \sum_{\mathcal{A} \subseteq \mathcal{I} \setminus \mathcal{I}_{u}^{tr}} \left[ \mathcal{L}(u, \mathcal{P}, \mathcal{A}) + \mathcal{R}(u, \mathcal{P}, \mathcal{A}) \right]  $$
+, where $\Theta = \{ U_{u} \in \mathbb{R}^{ d \times 1}, V_{i} \in \mathbb{R}^{d \times 1}, b_i \in \mathbb{R}, u \in \mathcal{U}^{tr}, i \in \mathcal{I}^{tr} \}$ is the set of model parameter, the loss term $\mathcal{L}(u, \mathcal{P}, \mathcal{A}) = - \ln{\sigma(\hat{r}_{u\mathcal{P}\mathcal{A}})}$, $\sigma(z) = 1/(1+\exp{(-z)})$, the pairwise preferences of user $u$ across 2 item-sets $\mathcal{P}$ and $\mathcal{A}$ is $\hat{r}_{u\mathcal{P}\mathcal{A}} = \hat{r}_{u\mathcal{P}} - \hat{r}_{u\mathcal{A}}$, the estimated preferences of user $u$ on item-sets $\mathcal{P}$ and $\mathcal{A}$ are $\hat{r}_{u\mathcal{P}} = |P|^{-1} \sum_{i \in \mathcal{P}} \hat{r}_{ui}, \hat{r}_{u\mathcal{A}} = |A|^{-1} \sum_{j \in \mathcal{A}} \hat{r}_{uj}$, the estimated preference of user $u$ on item $i$ is $\hat{r}_{ui} = U_{u}^\top V_{i} + b_i$, and the regularization term $\mathcal{R}(u, \mathcal{P}, \mathcal{A}) = \frac{\alpha_u}{2} \| U_u \|^2 + \sum_{i \in \mathcal{P}} [\frac{\alpha_V}{2} \| V_i \|^2 + \frac{\beta_V}{2} b_i^2] + \sum_{j \in \mathcal{A}} [\frac{\alpha_V}{2} \| V_j \|^2 + \frac{\beta_V}{2} b_j^2]$.
+
+
+
+&lt;h2 id=&#34;Corresponding-Gradients-in-SGD&#34;&gt;&lt;a href=&#34;#Corresponding-Gradients-in-SGD&#34; class=&#34;headerlink&#34; title=&#34;Corresponding Gradients in SGD&#34;&gt;&lt;/a&gt;Corresponding Gradients in SGD&lt;/h2&gt;&lt;p&gt;Stochastic gradient descent is applied in COFISET’s optimization. The corresponding gradients of model parameter $\Theta$ w.r.t. $\mathcal{L}(u, \mathcal{P}, \mathcal{A})$ and $\mathcal{R}(u, \mathcal{P}, \mathcal{A})$ are&lt;/p&gt;
+
+
+$$ \begin{aligned} 
+\dfrac{\partial \mathcal{L}}{\partial U_{u}} &amp; = - \dfrac{\partial \ln \sigma}{\partial \sigma} \dfrac{\partial \sigma}{\partial \hat{r}_{u \mathcal{P} \mathcal{A}} } \dfrac{\partial \hat{r}_{u \mathcal{P} \mathcal{A}}}{\partial U_{u}} \\ 
+&amp; = - \sigma^{-1}(-\hat{r}_{u \mathcal{P} \mathcal{A}}) \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (1-\sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}})) \dfrac{\partial (\hat{r}_{u\mathcal{P}} - \hat{r}_{u\mathcal{A}}) }{\partial U_{u}}\\ 
+&amp; = - \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (|\mathcal{P}|^{-1} \sum_{i \in \mathcal{P}} V_{i} - |\mathcal{A}|^{-1} \sum_{j \in \mathcal{A}} V_{j} ) \\
+&amp; = - \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (\overline{V}_{\mathcal{P}} - \overline{V}_{\mathcal{A}}), \forall u \in \mathcal{U}^{tr} \\ 
+\dfrac{\partial \mathcal{R}}{\partial U_u} &amp; = \alpha_{u} U_{u}, \forall u \in \mathcal{U}^{tr} \\
+\end{aligned} $$
+
+
+
+
+
+
+$$\begin{aligned}
+
+\dfrac{\partial \mathcal{L}}{\partial V_{i}} &amp; = - \dfrac{\partial \ln \sigma}{\partial \sigma} \dfrac{\partial \sigma}{\partial \hat{r}_{u \mathcal{P} \mathcal{A}} } \dfrac{\partial \hat{r}_{u \mathcal{P} \mathcal{A}}}{\partial V_{i}} \\ 
+&amp; = - \sigma^{-1}(-\hat{r}_{u \mathcal{P} \mathcal{A}}) \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (1-\sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}})) \dfrac{\partial (\hat{r}_{u\mathcal{P}} - \hat{r}_{u\mathcal{A}}) }{\partial V_{i}}\\ 
+&amp; = - \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (U_{u} / |\mathcal{P}|), \forall i \in \mathcal{P} \\
+\dfrac{\partial \mathcal{R}}{\partial V_i} &amp; = \alpha_{V} V_{i}, \forall i \in \mathcal{P} \\
+\dfrac{\partial \mathcal{L}}{\partial b_i} &amp; = - \dfrac{\partial \ln \sigma}{\partial \sigma} \dfrac{\partial \sigma}{\partial \hat{r}_{u \mathcal{P} \mathcal{A}} } \dfrac{\partial \hat{r}_{u \mathcal{P} \mathcal{A}}}{\partial b_{i}} \\ 
+&amp; = - \sigma^{-1}(-\hat{r}_{u \mathcal{P} \mathcal{A}}) \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (1-\sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}})) \dfrac{\partial (\hat{r}_{u\mathcal{P}} - \hat{r}_{u\mathcal{A}}) }{\partial b_{i}}\\ 
+&amp; = - \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) / |\mathcal{P}|, \forall i \in \mathcal{P} \\
+\dfrac{\partial \mathcal{R}}{\partial b_i} &amp; = \beta_V b_{i}, \forall i \in \mathcal{P} \\
+\end{aligned} $$
+
+
+
+
+
+$$\begin{aligned}
+
+\dfrac{\partial \mathcal{L}}{\partial V_j} &amp; = - \dfrac{\partial \ln \sigma}{\partial \sigma} \dfrac{\partial \sigma}{\partial \hat{r}_{u \mathcal{P} \mathcal{A}} } \dfrac{\partial \hat{r}_{u \mathcal{P} \mathcal{A}}}{\partial V_{j}} \\ 
+&amp; = - \sigma^{-1}(-\hat{r}_{u \mathcal{P} \mathcal{A}}) \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (1-\sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}})) \dfrac{\partial (\hat{r}_{u\mathcal{P}} - \hat{r}_{u\mathcal{A}}) }{\partial V_{j}}\\ 
+&amp; = \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (U_{u} / |\mathcal{A}|), \forall j \in \mathcal{A} \\
+\dfrac{\partial \mathcal{R}}{\partial V_j} &amp; = \alpha_{V} V_{j}, \forall j \in \mathcal{A} \\
+\dfrac{\partial \mathcal{L}}{\partial b_j} &amp; = - \dfrac{\partial \ln \sigma}{\partial \sigma} \dfrac{\partial \sigma}{\partial \hat{r}_{u \mathcal{P} \mathcal{A}} } \dfrac{\partial \hat{r}_{u \mathcal{P} \mathcal{A}}}{\partial b_{j}} \\ 
+&amp; = - \sigma^{-1}(-\hat{r}_{u \mathcal{P} \mathcal{A}}) \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (1-\sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}})) \dfrac{\partial (\hat{r}_{u\mathcal{P}} - \hat{r}_{u\mathcal{A}}) }{\partial b_{j}}\\ 
+&amp; = \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) / |\mathcal{A}|, \forall j \in \mathcal{A} \\
+\dfrac{\partial \mathcal{R}}{\partial b_j} &amp; = \beta_{V} b_{j}, \forall j \in \mathcal{A}
+\end{aligned} $$
+
+
+
+&lt;h3 id=&#34;Updating-Rules&#34;&gt;&lt;a href=&#34;#Updating-Rules&#34; class=&#34;headerlink&#34; title=&#34;Updating Rules&#34;&gt;&lt;/a&gt;Updating Rules&lt;/h3&gt;&lt;p&gt;Combining the gradients w.r.t. the loss term and the regularization term, the final gradients for each variable $U_{u}, V_{i}, V_{j}, b_{i}, b_{j}, u \in \mathcal{U}^{tr}, i \in \mathcal{P}, j \in \mathcal{A}$ are&lt;/p&gt;
+
+
+$$ \begin{aligned}
+	\nabla U_{u} &amp; = \dfrac{\partial \mathcal{L}}{\partial U_{u}} + \dfrac{\partial \mathcal{R}}{\partial U_{u}} \\ &amp; = - \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (\overline{V}_{\mathcal{P}} - \overline{V}_{\mathcal{A}}) + \alpha_{u} U_{u} \\
+	\nabla V_{i} &amp; = \dfrac{\partial \mathcal{L}}{\partial V_{i}} + \dfrac{\partial \mathcal{R}}{\partial V_{i}} \\ &amp; = - \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (U_{u} / |\mathcal{P}|) + \alpha_{V} V_{i} \\
+	\nabla V_{j} &amp; = \dfrac{\partial \mathcal{L}}{\partial V_{j}} + \dfrac{\partial \mathcal{R}}{\partial V_{j}} \\ &amp; = \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) (U_{u} / |\mathcal{A}|) + \alpha_{V} V_{j} \\
+	\nabla b_{i} &amp; = \dfrac{\partial \mathcal{L}}{\partial b_{i}} + \dfrac{\partial \mathcal{R}}{\partial b_{i}} \\ &amp; = - \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) / |\mathcal{P}| + \beta_V b_{i}\\ 
+	\nabla b_{j} &amp; = \dfrac{\partial \mathcal{L}}{\partial b_{j}} + \dfrac{\partial \mathcal{R}}{\partial b_{j}} \\ &amp; = \sigma(-\hat{r}_{u \mathcal{P} \mathcal{A}}) / |\mathcal{A}| + \beta_{V} b_{j}
+\end{aligned} $$
+And the updating rules for each variable are
+
+$$ \begin{aligned}
+U_{u}^{t+1} &amp; = U_{u}^{t} - \gamma \nabla U_{u}^{t}, u \in \mathcal{U}^{tr} \\
+V_{i}^{t+1} &amp; = V_{i}^{t} - \gamma \nabla V_{i}^{t}, i \in \mathcal{P} \\
+V_{j}^{t+1} &amp; = V_{j}^{t} - \gamma \nabla V_{j}^{t}, j \in \mathcal{A} \\
+b_{i}^{t+1} &amp; = b_{i}^{t} - \gamma \nabla b_{i}^{t}, i \in \mathcal{P} \\ 
+b_{j}^{t+1} &amp; = b_{j}^{t} - \gamma \nabla b_{j}^{t}, j \in \mathcal{A}
+\end{aligned} $$
+
+
+
+&lt;h2 id=&#34;JAVA-Implementation&#34;&gt;&lt;a href=&#34;#JAVA-Implementation&#34; class=&#34;headerlink&#34; title=&#34;JAVA Implementation&#34;&gt;&lt;/a&gt;JAVA Implementation&lt;/h2&gt;&lt;p&gt;You may find the implementation of COFISET in this famous JAVA library of recommendation systems &lt;a href=&#34;https://github.com/guoguibing/librec/search?q=COFISET&amp;unscoped_q=COFISET&#34;&gt;LibRec&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;BPRH&#34;&gt;&lt;a href=&#34;#BPRH&#34; class=&#34;headerlink&#34; title=&#34;BPRH&#34;&gt;&lt;/a&gt;BPRH&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&#34;Extended-Pairwise-Preferences&#34;&gt;&lt;a href=&#34;#Extended-Pairwise-Preferences&#34; class=&#34;headerlink&#34; title=&#34;Extended Pairwise Preferences&#34;&gt;&lt;/a&gt;Extended Pairwise Preferences&lt;/h2&gt;
+
+Following COFISET, BPRH extends the pairwise preferences over item-sets. Besides the target action (e.g. purchase), a type of user&#39;s action called auxiliary action is introduced. Viewing, liking, and disliking are examples for auxiliary actions. Now the assumption of pairwise preferences in BPRH becomes $\hat{r}_{u \mathcal{I}} &gt; \hat{r}_{u \mathcal{J}} &gt; \hat{r}_{u \mathcal{K}}, \mathcal{I} \subseteq \mathcal{I}_{t}^{u}, \mathcal{J} \subseteq \mathcal{I}_{t}^{oa}, \mathcal{K} \subseteq \mathcal{I}_{n}^{u}$. $\mathcal{I} \subseteq \mathcal{I}_{t}^{u}$ is a set of items with target feedback from user $u$. $\mathcal{J} \subseteq \mathcal{I}_{t}^{oa}$ is a set of items with only auxiliary feedback from user $u$. And $\mathcal{K} \subseteq \mathcal{I}_{n}^{u}$ is a set of items without any observed feedback from user $u$. Then we can get $\hat{r}_{u\mathcal{I}\mathcal{J}} &gt; 0, \hat{r}_{u\mathcal{J}\mathcal{K}} &gt; 0$ for user $u$.
+
+
+
+&lt;h2 id=&#34;Objective-Function-and-Optimization-1&#34;&gt;&lt;a href=&#34;#Objective-Function-and-Optimization-1&#34; class=&#34;headerlink&#34; title=&#34;Objective Function and Optimization&#34;&gt;&lt;/a&gt;Objective Function and Optimization&lt;/h2&gt;&lt;p&gt;BPRH reaches the maximization for all users $u$ as &lt;/p&gt;
+
+
+	
+	$$ \begin{aligned}
+		\max_{\Theta} \quad &amp; f(\Theta) - \mathcal{R}(\Theta)
+	\end{aligned}$$
+	, where $f(\Theta) = \sum_{u \in U} \left\lbrace \sum_{ \mathcal{I} \subseteq I^{u}_{t}, \mathcal{J} \subseteq I^{u}_{oa} } {\ln \sigma \left( \dfrac{\hat{r}_{u \mathcal{I} \mathcal{J}} (\Theta) }{\alpha_{u}} \right) } + \sum_{ \mathcal{J} \subseteq I^{u}_{oa}, \mathcal{K} \subseteq I^{u}_{n}} {\ln \sigma \left( \hat{r}_{u \mathcal{J} \mathcal{K}} (\Theta) \right) } \right\rbrace$ is the negative value of loss term, $\Theta = \{ U_{u} \in \mathbb{R}^{1 \times d}, V_{i} \in \mathbb{R}^{1 \times d}, b_i \in \mathbb{R}, u \in \mathcal{U}, i \in I \}$ is the set of model parameter, the pairwise preference of user $u$ across 2 item-sets $\mathcal{I}$ and $\mathcal{J}$ is $\hat{r}_{u\mathcal{I}\mathcal{J}} = \hat{r}_{u\mathcal{I}} - \hat{r}_{u\mathcal{J}}$,the pairwise preference of user $u$ across 2 item-sets $\mathcal{J}$ and $\mathcal{K}$ is $\hat{r}_{u\mathcal{J}\mathcal{K}} = \hat{r}_{u\mathcal{J}} - \hat{r}_{u\mathcal{K}}$, the estimated preferences of user $u$ on item-sets $\mathcal{I}, \mathcal{J}, \mathcal{K}$ are $\hat{r}_{u\mathcal{I}} = |I|^{-1} \sum_{i \in \mathcal{I}} \hat{r}_{ui}$, $ \hat{r}_{u\mathcal{J}} = |J|^{-1} \sum_{j \in \mathcal{J}} \hat{r}_{uj}$, $\hat{r}_{u\mathcal{K}} = |K|^{-1} \sum_{k \in \mathcal{K}} \hat{r}_{uk}$, the estimated preference of user $u$ on item $i$ is $\hat{r}_{ui} = U_{u}^\top V_{i} + b_i$, and the regularization term $$ \begin{aligned}
+		\mathcal{R}(\Theta) = \sum_{u \in U} \sum_{\mathcal{I} \subseteq I^{u}_{t}, \mathcal{J} \subseteq I^{u}_{oa}, \mathcal{K} \subseteq I^{u}_{n}} \{ &amp; \lambda_u \| U_{u} \|^2  \\ &amp; + \lambda_v \left( \| V_{\mathcal{I}} \|^2 + \| V_{\mathcal{J}} \|^2 + \| V_{\mathcal{K}} \|^2 \right) \\ &amp; + \lambda_b \left( b_{\mathcal{I}}^2 + b_{\mathcal{J}}^2 + b_{\mathcal{K}}^2 \right) \}
+	\end{aligned}  $$, $V_{\mathcal{I}} = |\mathcal{I}|^{-1} \sum_{i \in \mathcal{I}} V_i$, $V_{\mathcal{J}} = |\mathcal{J}|^{-1} \sum_{j \in \mathcal{J}} V_j$, $V_{\mathcal{K}} = |\mathcal{K}|^{-1} \sum_{k \in \mathcal{K}} V_k$, $b_{\mathcal{I}} = |\mathcal{I}|^{-1} \sum_{i \in \mathcal{I}} b_i$, $b_{\mathcal{J}} = |\mathcal{J}|^{-1} \sum_{j \in \mathcal{J}} b_j$, $b_{\mathcal{K}} = |\mathcal{K}|^{-1} \sum_{k \in \mathcal{K}} b_k$. $\alpha_{u}$ is a parameter in $f(\Theta)$ controlling the contribution of $\hat{r}_{u \mathcal{I} \mathcal{J}} (\Theta)$ and calculated from data.
+	
+
+
+&lt;h2 id=&#34;Corresponding-Gradients-in-SGD-1&#34;&gt;&lt;a href=&#34;#Corresponding-Gradients-in-SGD-1&#34; class=&#34;headerlink&#34; title=&#34;Corresponding Gradients in SGD&#34;&gt;&lt;/a&gt;Corresponding Gradients in SGD&lt;/h2&gt;&lt;p&gt;Stochastic gradient descent is utilized in optimization. The corresponding gradients of model parameter $\Theta$ w.r.t the negative loss term $f(\Theta)$ and the regularization term $\mathcal{R}(\Theta)$ are&lt;/p&gt;
+
+
+$$\begin{aligned}
+		\dfrac{\partial f}{\partial U_{u}} &amp; = \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} )  }{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} } \dfrac{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} }{\partial U_{u}} + \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{J}\mathcal{K}})}{\partial \hat{r}_{u\mathcal{J}\mathcal{K}} } \dfrac{\partial \hat{r}_{u\mathcal{J}\mathcal{K}} }{\partial U_{u}} \\ &amp; = \alpha_{u}^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) \left[ |I|^{-1} \sum_{i \in \mathcal{I}} V_{i} - |J|^{-1} \sum_{j \in \mathcal{J}} V_{j} \right] \\ &amp; + \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \left[ |J|^{-1} \sum_{j \in \mathcal{J}} V_{j} - |K|^{-1} \sum_{k \in \mathcal{K}} V_{k} \right] \\ &amp; = \alpha_{u}^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) \left[ \overline{V}_{\mathcal{I}} - \overline{V}_{\mathcal{J}} \right] + \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \left[ \overline{V}_{\mathcal{J}} - \overline{V}_{\mathcal{K}} \right], \forall u \in U \\
+		\dfrac{\partial \mathcal{R}}{\partial U_{u}} &amp; = 2 \lambda_{u} U_{u}, \forall u \in U\\
+\end{aligned}$$
+
+$$\begin{aligned}
+		\dfrac{\partial f}{\partial V_{i}} &amp; = \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} )  }{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} } \dfrac{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} }{\partial V_{i}} \\ &amp; = (|\mathcal{I}| \alpha_{u})^{-1} \sigma(- \alpha_u^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) U_{u}, \forall i \in \mathcal{I}\\
+		\dfrac{\partial \mathcal{R}}{\partial V_{i}} &amp; = \lambda_{v} \dfrac{\partial \| V_{\mathcal{I}} \|^2 }{\partial V_{\mathcal{I}}} \dfrac{\partial V_{\mathcal{I}}}{\partial V_{i}} = 2 |\mathcal{I}|^{-1} \lambda_{v} V_{\mathcal{I}}, \forall i \in \mathcal{I} \\
+		\dfrac{\partial f}{\partial b_{i}} &amp; = \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} )  }{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} } \dfrac{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} }{\partial b_{i}} \\ &amp; = (|\mathcal{I}| \alpha_{u})^{-1} \sigma(- \alpha_u^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ), \forall i \in \mathcal{I}\\
+		\dfrac{\partial \mathcal{R}}{\partial b_{i}} &amp; = \lambda_b \dfrac{\partial b_{\mathcal{I}}^2 }{\partial b_{\mathcal{I}}} \dfrac{\partial b_{\mathcal{I}}}{\partial b_{i}} = 2 \lambda_b |\mathcal{I}|^{-1} b_{\mathcal{I}}, \forall i \in \mathcal{I} \\ 
+\end{aligned}$$
+$$\begin{aligned}
+		\dfrac{\partial f}{\partial V_{j}} &amp; = \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} )  }{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} } \dfrac{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} }{\partial V_{j} } + \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{J}\mathcal{K}})}{\partial \hat{r}_{u\mathcal{J}\mathcal{K}} } \dfrac{\partial \hat{r}_{u\mathcal{J}\mathcal{K}} }{\partial V_{j}} \\ &amp; = - ( |\mathcal{J}| \alpha_{u})^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) U_{u} + |\mathcal{J}|^{-1} \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) U_{u} \\ &amp; = |\mathcal{J}|^{-1} \left[ - \alpha_{u}^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) + \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \right] U_{u}, \forall j \in \mathcal{J} \\
+		\dfrac{\partial \mathcal{R}}{\partial V_{j}} &amp; = \lambda_{v} \dfrac{\partial \| V_{\mathcal{J}} \|^2 }{\partial V_{\mathcal{J}}} \dfrac{\partial V_{\mathcal{J}}}{\partial V_{j}} = 2 |\mathcal{J}|^{-1} \lambda_{v} V_{\mathcal{J}}, \forall j \in \mathcal{J}  \\
+		\dfrac{\partial f}{\partial b_{j}} &amp; = \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} )  }{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} } \dfrac{\partial \hat{r}_{u\mathcal{I}\mathcal{J}} / \alpha_{u} }{\partial b_{j} } + \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{J}\mathcal{K}})}{\partial \hat{r}_{u\mathcal{J}\mathcal{K}} } \dfrac{\partial \hat{r}_{u\mathcal{J}\mathcal{K}} }{\partial b_{j}} \\ &amp; = - ( |\mathcal{J}| \alpha_{u})^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) + |\mathcal{J}|^{-1} \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \\ &amp; = |\mathcal{J}|^{-1} \left[ - \alpha_{u}^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) + \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \right], \forall j \in \mathcal{J} \\
+		\dfrac{\partial \mathcal{R}}{\partial b_{j}} &amp; = \lambda_b \dfrac{\partial b_{\mathcal{J}}^2 }{\partial b_{\mathcal{J}}} \dfrac{\partial b_{\mathcal{J}}}{\partial b_{j}} = 2 \lambda_b |\mathcal{J}|^{-1} b_{\mathcal{J}}, \forall j \in \mathcal{J} \\
+\end{aligned}$$
+$$\begin{aligned}
+		\dfrac{\partial f}{\partial V_{k}} &amp; = \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{J}\mathcal{K}})  }{\partial \hat{r}_{u\mathcal{J}\mathcal{K}}} \dfrac{\partial \hat{r}_{u\mathcal{J}\mathcal{K}} }{\partial V_{k}} \\ &amp; = - |\mathcal{K}|^{-1} \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) U_{u}, \forall k \in \mathcal{K}\\
+		\dfrac{\partial \mathcal{R}}{\partial V_{k}} &amp; = \lambda_{v} \dfrac{\partial \| V_{\mathcal{K}} \|^2 }{\partial V_{\mathcal{K}}} \dfrac{\partial V_{\mathcal{K}}}{\partial V_{k}} = 2 |\mathcal{K}|^{-1} \lambda_{v} V_{\mathcal{K}}, \forall k \in \mathcal{K}\\
+		\dfrac{\partial f}{\partial b_{k}} &amp; = \dfrac{\partial \ln(\sigma)}{\partial \sigma} \dfrac{\partial \sigma(\hat{r}_{u\mathcal{J}\mathcal{K}} )  }{\partial \hat{r}_{u\mathcal{J}\mathcal{K}}  } \dfrac{\partial \hat{r}_{u\mathcal{J}\mathcal{K}}  }{\partial b_{k}} \\ &amp; = - |\mathcal{K}|^{-1} \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ), \forall k \in \mathcal{K}\\
+		\dfrac{\partial \mathcal{R}}{\partial b_{k}} &amp; = \lambda_b \dfrac{\partial b_{\mathcal{K}}^2 }{\partial b_{\mathcal{K}}} \dfrac{\partial b_{\mathcal{K}}}{\partial b_{k}} = 2 \lambda_b |\mathcal{K}|^{-1} b_{\mathcal{K}}, \forall k \in \mathcal{K}\\
+\end{aligned}$$
+
+
+
+&lt;h3 id=&#34;Updating-Rules-1&#34;&gt;&lt;a href=&#34;#Updating-Rules-1&#34; class=&#34;headerlink&#34; title=&#34;Updating Rules&#34;&gt;&lt;/a&gt;Updating Rules&lt;/h3&gt;&lt;p&gt;Combining the gradients w.r.t. the negative loss term and the regularization term, the final gradients for each variable $U_{u}, V_{i}, V_{j}, V_{k}, b_{i}, b_{j}, b_{k}, u \in U, i \in \mathcal{I}, j \in \mathcal{J}, k \in \mathcal{K}$ are&lt;/p&gt;
+
+
+$$ \begin{aligned}
+	\nabla U_{u} &amp; = \dfrac{\partial f}{\partial U_{u}} - \dfrac{\partial \mathcal{R}}{\partial U_{u}} \\ &amp; = \alpha_{u}^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) \left[ \overline{V}_{\mathcal{I}} - \overline{V}_{\mathcal{J}} \right] + \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \left[ \overline{V}_{\mathcal{J}} - \overline{V}_{\mathcal{K}} \right] - 2 \lambda_{u} U_{u}, \forall u \in U \\
+	\nabla V_{i} &amp; = \dfrac{\partial f}{\partial V_{i}} - \dfrac{\partial \mathcal{R}}{\partial V_{i}} \\ &amp; = (|\mathcal{I}| \alpha_{u})^{-1} \sigma(- \alpha_u^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) U_{u} - 2 |\mathcal{I}|^{-1} \lambda_{v} V_{\mathcal{I}}, \forall i \in \mathcal{I}\\
+	\nabla V_{j} &amp; = \dfrac{\partial f}{\partial V_{j}} - \dfrac{\partial \mathcal{R}}{\partial V_{j}} \\ &amp; = |\mathcal{J}|^{-1} \left[ - \alpha_{u}^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) + \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \right] U_{u} - 2 |\mathcal{J}|^{-1} \lambda_{v} V_{\mathcal{J}}, \forall j \in \mathcal{J}\\
+	\nabla V_{k} &amp; = \dfrac{\partial f}{\partial V_{k}} - \dfrac{\partial \mathcal{R}}{\partial V_{k}} \\ &amp; = - |\mathcal{K}|^{-1} \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) U_{u} - 2 |\mathcal{K}|^{-1} \lambda_{v} V_{\mathcal{K}}, \forall k \in \mathcal{K}\\
+	\nabla b_{i} &amp; = \dfrac{\partial f}{\partial b_{i}} - \dfrac{\partial \mathcal{R}}{\partial b_{i}} \\ &amp; = (|\mathcal{I}| \alpha_{u})^{-1} \sigma(- \alpha_u^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) - 2 \lambda_b |\mathcal{I}|^{-1} b_{\mathcal{I}}, \forall i \in \mathcal{I}\\ 
+	\nabla b_{j} &amp; = \dfrac{\partial f}{\partial b_{j}} - \dfrac{\partial \mathcal{R}}{\partial b_{j}} \\ &amp; = |\mathcal{J}|^{-1} \left[ - \alpha_{u}^{-1} \sigma(- \alpha_{u}^{-1} \hat{r}_{u\mathcal{I}\mathcal{J}} ) + \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) \right] - 2 \lambda_b |\mathcal{J}|^{-1} b_{\mathcal{J}}, \forall j \in \mathcal{J}\\
+	\nabla b_{k} &amp; = \dfrac{\partial f}{\partial b_{k}} - \dfrac{\partial \mathcal{R}}{\partial b_{k}} \\ &amp; = - |\mathcal{K}|^{-1} \sigma(- \hat{r}_{u\mathcal{J}\mathcal{K}} ) - 2 \lambda_b |\mathcal{K}|^{-1} b_{\mathcal{K}}, \forall k \in \mathcal{K}\\
+	\end{aligned} $$
+	
+	And the updating rules for each variable are
+	
+	$$ \begin{aligned}
+	U_{u}^{t+1} &amp; = U_{u}^{t} + \gamma \nabla U_{u}^{t}, u \in U \\
+	V_{i}^{t+1} &amp; = V_{i}^{t} + \gamma \nabla V_{i}^{t}, i \in \mathcal{I} \\
+	V_{j}^{t+1} &amp; = V_{j}^{t} + \gamma \nabla V_{j}^{t}, j \in \mathcal{J} \\
+	V_{k}^{t+1} &amp; = V_{k}^{t} + \gamma \nabla V_{k}^{t}, k \in \mathcal{K} \\
+	b_{i}^{t+1} &amp; = b_{i}^{t} + \gamma \nabla b_{i}^{t}, i \in \mathcal{I} \\ 
+	b_{j}^{t+1} &amp; = b_{j}^{t} + \gamma \nabla b_{j}^{t}, j \in \mathcal{J} \\
+	b_{k}^{t+1} &amp; = b_{k}^{t} + \gamma \nabla b_{k}^{t}, k \in \mathcal{K}
+	\end{aligned} $$
+
+
+
+&lt;h2 id=&#34;Online-Updating-for-New-User&#34;&gt;&lt;a href=&#34;#Online-Updating-for-New-User&#34; class=&#34;headerlink&#34; title=&#34;Online Updating for New User&#34;&gt;&lt;/a&gt;Online Updating for New User&lt;/h2&gt;&lt;p&gt;Rendle et al (2008) came with an online updating schema in their regularized kernal matrix factorization model along with stochastic gradient descent. Since BPRH also utilizes SGD in its objective function maximization, we can follow Rendle’s methods to update user and item matrices when a new user or item enters the landscape (cold-start problem). You can see the implementation code at &lt;a href=&#34;https://github.com/liu-yihong/BPRH/blob/master/bprH_gpu.py#L656&#34;&gt;bprH_gpu.py - Line 656&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;h2 id=&#34;Python-Implementation&#34;&gt;&lt;a href=&#34;#Python-Implementation&#34; class=&#34;headerlink&#34; title=&#34;Python Implementation&#34;&gt;&lt;/a&gt;Python Implementation&lt;/h2&gt;&lt;p&gt;You can star my BPRH repository and see the details of my BPRH implementation at &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/liu-yihong/BPRH&#34;&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api/pin/?username=liu-yihong&amp;repo=BPRH&amp;show_owner=true&#34; alt=&#34;BPRH Python Implementation&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Reference&#34;&gt;&lt;a href=&#34;#Reference&#34; class=&#34;headerlink&#34; title=&#34;Reference&#34;&gt;&lt;/a&gt;Reference&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;Rendle, Steffen, et al. “BPR: Bayesian personalized ranking from implicit feedback.” arXiv preprint arXiv:1205.2618 (2012). &lt;a href=&#34;https://arxiv.org/abs/1205.2618&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pan, Weike, and Li Chen. “Cofiset: Collaborative filtering via learning pairwise preferences over item-sets.” Proceedings of the 2013 SIAM international conference on data mining. Society for Industrial and Applied Mathematics, 2013. &lt;a href=&#34;https://epubs.siam.org/doi/abs/10.1137/1.9781611972832.20&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Qiu, Huihuai, et al. “BPRH: Bayesian personalized ranking for heterogeneous implicit feedback.” Information Sciences 453 (2018): 80-98. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0020025516315742&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rendle, Steffen, and Lars Schmidt-Thieme. “Online-updating regularized kernel matrix factorization models for large-scale recommender systems.” Proceedings of the 2008 ACM conference on Recommender systems. 2008. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/1454008.1454047&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="Ph.D." />
+        <category term="Research" />
+        <category term="Personalized Ranking" />
+        <category term="Implicit Feedback" />
+        <updated>2020-06-27T02:53:11.000Z</updated>
+    </entry>
+</feed>

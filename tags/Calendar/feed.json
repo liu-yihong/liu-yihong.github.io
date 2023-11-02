@@ -1,0 +1,24 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yihong Liu's Blog • All posts by \"calendar\" tag",
+    "description": "Yihong Liu is a PhD student in the Management Science, Information Systems Concentration at the Naveen Jindal School of Management, UT Dallas.",
+    "home_page_url": "https://blog.yihong-liu.com",
+    "items": [
+        {
+            "id": "https://blog.yihong-liu.com/2022/03/12/MIS-Conference-Calendar/",
+            "url": "https://blog.yihong-liu.com/2022/03/12/MIS-Conference-Calendar/",
+            "title": "MIS Conference Calendar",
+            "date_published": "2022-03-12T17:24:31.000Z",
+            "content_html": "<p>Stay on Top of MIS Conference Deadlines with Ease!</p>\n<p>Discover the Convenience of my Reliable MIS Conference Calendar!</p>\n<span id=\"more\"></span>\n\n<p>Photo by <a href=\"https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">charlesdeluvio</a> on <a href=\"https://unsplash.com/s/photos/calendar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n  </p>\n",
+            "tags": [
+                "Research",
+                "MIS",
+                "IS",
+                "Management Information Systems",
+                "Information Systems",
+                "Conference",
+                "Calendar"
+            ]
+        }
+    ]
+}
