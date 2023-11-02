@@ -165,6 +165,27 @@
   </url>
   
   <url>
+    <loc>https://blog.yihong-liu.com/tags/JSOM/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/tags/SQL/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/tags/ITSS3300/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.yihong-liu.com/tags/Writing/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,21 +214,21 @@
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/tags/JSOM/</loc>
+    <loc>https://blog.yihong-liu.com/tags/Math/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/tags/SQL/</loc>
+    <loc>https://blog.yihong-liu.com/tags/Preliminary/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/tags/ITSS3300/</loc>
+    <loc>https://blog.yihong-liu.com/tags/Courses/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -257,27 +278,6 @@
   
   <url>
     <loc>https://blog.yihong-liu.com/tags/Calendar/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/tags/Math/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/tags/Preliminary/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/tags/Courses/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -377,21 +377,14 @@
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Research/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yihong-liu.com/categories/Ph-D/Writing/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -405,21 +398,7 @@
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/TA/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/Job/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Research/Conference/</loc>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Research/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -433,7 +412,28 @@
   </url>
   
   <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/Job/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.yihong-liu.com/categories/Ph-D/Courses/Notes/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Research/Conference/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/TA/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

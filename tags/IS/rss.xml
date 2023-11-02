@@ -11,13 +11,16 @@
         <category>Notes</category>
         <category>Job</category>
         <category>Interview Experiences</category>
+        <category>JSOM</category>
+        <category>SQL</category>
+        <category>ITSS3300</category>
         <category>Writing</category>
         <category>Latex</category>
         <category>Packages</category>
         <category>PGF/TikZ</category>
-        <category>JSOM</category>
-        <category>SQL</category>
-        <category>ITSS3300</category>
+        <category>Math</category>
+        <category>Preliminary</category>
+        <category>Courses</category>
         <category>Research</category>
         <category>MIS</category>
         <category>IS</category>
@@ -25,9 +28,6 @@
         <category>Information Systems</category>
         <category>Conference</category>
         <category>Calendar</category>
-        <category>Math</category>
-        <category>Preliminary</category>
-        <category>Courses</category>
         <category>Personalized Ranking</category>
         <category>Implicit Feedback</category>
         <category>Online Video Community</category>
