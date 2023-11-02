@@ -92,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/404.html</loc>
-    
-    <lastmod>2022-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yihong-liu.com/2021/04/03/Understanding-Bilibili-s-Business-Model/</loc>
     
     <lastmod>2021-09-16</lastmod>
@@ -393,42 +384,14 @@
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Writing/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/Job/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Writing/Latex/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/TA/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Writing/Latex/PGF-TikZ/</loc>
-    <lastmod>2023-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yihong-liu.com/categories/Ph-D/Research/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Writing/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -442,7 +405,14 @@
   </url>
   
   <url>
-    <loc>https://blog.yihong-liu.com/categories/Ph-D/Job/</loc>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/TA/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/Job/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -456,7 +426,28 @@
   </url>
   
   <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Writing/Latex/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.yihong-liu.com/categories/Ph-D/Courses/Notes/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Writing/Latex/PGF-TikZ/</loc>
+    <lastmod>2023-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Job/</loc>
     <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
