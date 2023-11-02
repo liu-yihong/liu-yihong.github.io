@@ -7,17 +7,17 @@
         <language>en</language>
         <pubDate>Sat, 12 Mar 2022 11:24:31 -0600</pubDate>
         <lastBuildDate>Sat, 12 Mar 2022 11:24:31 -0600</lastBuildDate>
-        <category>JSOM</category>
         <category>Ph.D.</category>
         <category>Notes</category>
-        <category>SQL</category>
-        <category>ITSS3300</category>
+        <category>Job</category>
+        <category>Interview Experiences</category>
         <category>Writing</category>
         <category>Latex</category>
         <category>Packages</category>
         <category>PGF/TikZ</category>
-        <category>Job</category>
-        <category>Interview Experiences</category>
+        <category>JSOM</category>
+        <category>SQL</category>
+        <category>ITSS3300</category>
         <category>Research</category>
         <category>MIS</category>
         <category>IS</category>
@@ -28,6 +28,8 @@
         <category>Math</category>
         <category>Preliminary</category>
         <category>Courses</category>
+        <category>Personalized Ranking</category>
+        <category>Implicit Feedback</category>
         <category>Online Video Community</category>
         <category>Bilibili</category>
         <category>Business Model</category>
@@ -36,8 +38,6 @@
         <category>B站</category>
         <category>商业模型</category>
         <category>联合投稿</category>
-        <category>Personalized Ranking</category>
-        <category>Implicit Feedback</category>
         <category>Reading</category>
         <category>Publications</category>
         <item>
@@ -52,13 +52,7 @@
             <category>Conference</category>
             <category>Calendar</category>
             <pubDate>Sat, 12 Mar 2022 11:24:31 -0600</pubDate>
-            <description><![CDATA[ &lt;p&gt;Stay on Top of MIS Conference Deadlines with Ease!&lt;/p&gt;
-&lt;p&gt;Discover the Convenience of my Reliable MIS Conference Calendar!&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-
-&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@charlesdeluvio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;charlesdeluvio&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/s/photos/calendar?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;
-  &lt;/p&gt;
- ]]></description>
+            <description><![CDATA[ &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#34;utf-8&#34;&gt;&lt;title&gt;Redirecting...&lt;/title&gt;&lt;link rel=&#34;canonical&#34; href=&#34;https://liu-yihong.github.io/MISReadingList/conferences/calendar/&#34;&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=https://liu-yihong.github.io/MISReadingList/conferences/calendar/&#34;&gt;&lt;/head&gt;&lt;/html&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://blog.yihong-liu.com/2021/04/03/Understanding-Bilibili-s-Business-Model/</guid>
