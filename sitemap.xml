@@ -383,6 +383,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.yihong-liu.com/tags/Doctoral-Consortium/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -478,6 +485,13 @@
   
   <url>
     <loc>https://blog.yihong-liu.com/categories/Ph-D/Notes/Reflection/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yihong-liu.com/categories/Ph-D/Research/Doctoral-Consortium/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
