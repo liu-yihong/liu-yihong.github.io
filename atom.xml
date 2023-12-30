@@ -309,23 +309,114 @@ randomize: false,
 
 &lt;p&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231207_025240061~3.jpg&#34; alt=&#34;Panel 1 Research &amp;amp; Teaching&#34;&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;br&gt;
-&lt;article class=&#34;message is-info&#34;&gt;
+
+&lt;div class=&#34;tabs my-3 is-fullwidth is-boxed&#34;&gt;
+        &lt;ul class=&#34;mx-0 my-0&#34;&gt;
+            &lt;li class=&#34;is-active&#34;&gt;
+          &lt;a href=&#34;#panel1-description&#34;&gt;
+              &lt;span class=&#34;icon is-small ml-0&#34;&gt;
+                &lt;i class=&#34;fa-solid fa-quote-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;Panel Description
+          &lt;/a&gt;
+      &lt;/li&gt;&lt;li&gt;
+          &lt;a href=&#34;#panel1-members&#34;&gt;
+              &lt;span class=&#34;icon is-small ml-0&#34;&gt;
+                &lt;i class=&#34;fa-solid fa-chalkboard-user&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;Members
+          &lt;/a&gt;
+      &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;panel1-description&#34; class=&#34;tab-content&#34;&gt;
+          &lt;article class=&#34;message is-info&#34;&gt;
   &lt;div class=&#34;message-body&#34;&gt;
-  Panelists offered their remarks on research and teaching relevant to doctoral students in the final stages of their academic journey. The session provided a chance for participants to engage in a dialogue, ask questions, and gain valuable perspectives from the panel members.
+  The first panel delved into crucial aspects of research and teaching tailored for doctoral students reaching the summit of their academic journey. It wasn&#39;t just a lecture; it was an opportunity to connect, question, and glean invaluable perspectives from the seasoned panelists.
   &lt;/div&gt;
 &lt;/article&gt;
 
+
+      &lt;/div&gt;&lt;div id=&#34;panel1-members&#34; class=&#34;tab-content is-hidden&#34;&gt;
+          &lt;ul&gt;
+&lt;li&gt;Moderator: Wai Fong Boh&lt;/li&gt;
+&lt;li&gt;Members:&lt;ul&gt;
+&lt;li&gt;Balaji Padmanabhan&lt;/li&gt;
+&lt;li&gt;D.J. (Dongjun) Wu&lt;/li&gt;
+&lt;li&gt;Susan Scott&lt;/li&gt;
+&lt;li&gt;Zhenhui (Jack) Jiang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      &lt;/div&gt;
+
+&lt;h2 id=&#34;Job-Search-Insights&#34;&gt;&lt;a href=&#34;#Job-Search-Insights&#34; class=&#34;headerlink&#34; title=&#34;Job Search Insights&#34;&gt;&lt;/a&gt;Job Search Insights&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Discover Your Fit:&lt;/strong&gt; Look beyond the academic landscape. Visit potential locations, feel the vibe, and embrace the environment to gauge the perfect fit for you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenge Assumptions:&lt;/strong&gt; Don’t let assumptions hold you back. Apply to institutions you might think won’t appreciate your candidacy—you might be pleasantly surprised.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Navigating-the-Tenure-Process&#34;&gt;&lt;a href=&#34;#Navigating-the-Tenure-Process&#34; class=&#34;headerlink&#34; title=&#34;Navigating the Tenure Process&#34;&gt;&lt;/a&gt;Navigating the Tenure Process&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Embrace Change:&lt;/strong&gt; Transitioning from student to faculty is a significant shift. Adapt your approach to work, life, and mindset accordingly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manage Your Time Wisely:&lt;/strong&gt; Juggling research, teaching, and other commitments can be overwhelming. Develop strong time management skills, including maintaining a detailed to-do list to make every minute count.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Document Everything:&lt;/strong&gt; Keep a record—physical or digital—of your journey. It’ll serve as a valuable reference when memories fade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build a Support System:&lt;/strong&gt; Cultivate a supportive network, both socially and academically. Seek guidance from mentors within your department and the local community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Research-Nuggets&#34;&gt;&lt;a href=&#34;#Research-Nuggets&#34; class=&#34;headerlink&#34; title=&#34;Research Nuggets&#34;&gt;&lt;/a&gt;Research Nuggets&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Celebrate Diversity:&lt;/strong&gt; Appreciate the myriad research methodologies in the Information Systems field. Respect the work of others, even if it differs from your own.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Citations:&lt;/strong&gt; When submitting to journals, cite relevant papers from that specific journal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-World Impact:&lt;/strong&gt; Elevate your research by highlighting its practical implications. Clearly communicate the real-world questions your work addresses and who stands to benefit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Teaching-Takeaways&#34;&gt;&lt;a href=&#34;#Teaching-Takeaways&#34; class=&#34;headerlink&#34; title=&#34;Teaching Takeaways&#34;&gt;&lt;/a&gt;Teaching Takeaways&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mission Alignment:&lt;/strong&gt; Align your teaching with the school’s mission. Understand the broader impact of your educational role.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strive for Excellence:&lt;/strong&gt; Teaching isn’t just a requirement; aim for excellence. Practice consistently to refine your skills.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mentorship Matters:&lt;/strong&gt; Be a mentor and role model for your students. Understand their challenges and stressors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explore IT Teaching Workshops:&lt;/strong&gt; Stay updated with IT teaching workshops to enhance your teaching skills. Check out events like the ones at:&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bu.edu/dbi/events/it-teaching-workshop/&#34;&gt;Questrom School of Business, Boston University, 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://carlsonschool.umn.edu/2022_it_teaching_workshop&#34;&gt;Carlson School of Management, University of Minnesota, 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simon.rochester.edu/research-conference/2021-it-teaching-workshop&#34;&gt;Simon Business School, University of Rochester, 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;Panel-2-Service-and-the-Global-Community&#34;&gt;&lt;a href=&#34;#Panel-2-Service-and-the-Global-Community&#34; class=&#34;headerlink&#34; title=&#34;Panel 2: Service and the Global Community&#34;&gt;&lt;/a&gt;Panel 2: Service and the Global Community&lt;/h1&gt;&lt;div class=&#34;justified-gallery&#34; id=&#34;g3&#34;&gt;
 
 &lt;p&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231208_042625030~2.jpg&#34; alt=&#34;Panel 2 Service &amp;amp; Global Community&#34;&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;br&gt;
-&lt;article class=&#34;message is-info&#34;&gt;
+&lt;div class=&#34;tabs my-3 is-fullwidth is-boxed&#34;&gt;
+        &lt;ul class=&#34;mx-0 my-0&#34;&gt;
+            &lt;li class=&#34;is-active&#34;&gt;
+          &lt;a href=&#34;#panel2-description&#34;&gt;
+              &lt;span class=&#34;icon is-small ml-0&#34;&gt;
+                &lt;i class=&#34;fa-solid fa-quote-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;Panel Description
+          &lt;/a&gt;
+      &lt;/li&gt;&lt;li&gt;
+          &lt;a href=&#34;#panel2-members&#34;&gt;
+              &lt;span class=&#34;icon is-small ml-0&#34;&gt;
+                &lt;i class=&#34;fa-solid fa-chalkboard-user&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;Members
+          &lt;/a&gt;
+      &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;panel2-description&#34; class=&#34;tab-content&#34;&gt;
+          &lt;article class=&#34;message is-info&#34;&gt;
   &lt;div class=&#34;message-body&#34;&gt;
   In the second panel, we explored two key themes: (i) service roles for early career scholars and (ii) regional variations in our global community concerning research, teaching, and service. The panel aimed to shed light on the significance of service in our profession and to foster awareness of the global community, including its inherent norms and emerging trends. Panelists shared their insights, prompting participants to ask questions and engage in a dialogue with the panel members.
   &lt;/div&gt;
 &lt;/article&gt;
+
+
+      &lt;/div&gt;&lt;div id=&#34;panel2-members&#34; class=&#34;tab-content is-hidden&#34;&gt;
+          &lt;ul&gt;
+&lt;li&gt;Moderator: Saonee Sarker&lt;/li&gt;
+&lt;li&gt;Members:&lt;ul&gt;
+&lt;li&gt;Matti Rossi&lt;/li&gt;
+&lt;li&gt;Stefan Seidel&lt;/li&gt;
+&lt;li&gt;T. Ravichandran&lt;/li&gt;
+&lt;li&gt;Xin Li&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      &lt;/div&gt;
 
 &lt;h1 id=&#34;Keynote-Navigating-the-Nexus-of-People-Policy-and-Technology-Insights-from-My-Academic-Journey&#34;&gt;&lt;a href=&#34;#Keynote-Navigating-the-Nexus-of-People-Policy-and-Technology-Insights-from-My-Academic-Journey&#34; class=&#34;headerlink&#34; title=&#34;Keynote: Navigating the Nexus of People, Policy and Technology: Insights from My Academic Journey&#34;&gt;&lt;/a&gt;Keynote: Navigating the Nexus of People, Policy and Technology: Insights from My Academic Journey&lt;/h1&gt;&lt;div class=&#34;justified-gallery&#34; id=&#34;g4&#34;&gt;
 
