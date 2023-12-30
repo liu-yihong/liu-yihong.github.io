@@ -40,6 +40,7 @@
         <category>联合投稿</category>
         <category>Reading</category>
         <category>Publications</category>
+        <category>Reflection</category>
         <item>
             <guid isPermalink="true">https://blog.yihong-liu.com/2020/04/21/Draw-Beautifully-in-Latex-Resources-of-TikZ/</guid>
             <title>Draw Beautifully in Latex - Resources of PGF/TikZ</title>

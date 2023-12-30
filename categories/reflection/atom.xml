@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.yihong-liu.com</id>
+    <title>Yihong Liu&#39;s Blog • Posts by &#34;reflection&#34; category</title>
+    <link href="https://blog.yihong-liu.com" />
+    <updated>2023-12-29T06:09:09.000Z</updated>
+    <category term="Ph.D." />
+    <category term="Notes" />
+    <category term="Job" />
+    <category term="Interview Experiences" />
+    <category term="Writing" />
+    <category term="Latex" />
+    <category term="Packages" />
+    <category term="PGF/TikZ" />
+    <category term="JSOM" />
+    <category term="SQL" />
+    <category term="ITSS3300" />
+    <category term="Research" />
+    <category term="MIS" />
+    <category term="IS" />
+    <category term="Management Information Systems" />
+    <category term="Information Systems" />
+    <category term="Conference" />
+    <category term="Calendar" />
+    <category term="Math" />
+    <category term="Preliminary" />
+    <category term="Courses" />
+    <category term="Personalized Ranking" />
+    <category term="Implicit Feedback" />
+    <category term="Online Video Community" />
+    <category term="Bilibili" />
+    <category term="Business Model" />
+    <category term="Video Collaboration" />
+    <category term="哔哩哔哩" />
+    <category term="B站" />
+    <category term="商业模型" />
+    <category term="联合投稿" />
+    <category term="Reading" />
+    <category term="Publications" />
+    <category term="Reflection" />
+    <entry>
+        <id>https://blog.yihong-liu.com/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/</id>
+        <title>Embarking on Scholarly Seas: A Journey through ICIS 2023 Doctoral Consortium</title>
+        <link rel="alternate" href="https://blog.yihong-liu.com/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/"/>
+        <content type="html">&lt;p&gt;I am thrilled to share my recent experience as a participant in the Doctoral Consortium at ICIS 2023, hosted in the vibrant city of Hyderabad, India. This post is my reflection on the invaluable moments and insights gained during this unforgettable event.&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;div class=&#34;justified-gallery&#34; id=&#34;g1&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231207_025036565.MP~3.jpg&#34; alt=&#34;Eivor Oborn &amp;amp; Arun Rai @ Welcome Reception&#34;&gt;&lt;br&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231207_142059811.MP~2.jpg&#34; alt=&#34;Suprateek Sarker @ Dinner&#34;&gt;&lt;br&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231208_133018123~2.jpg&#34; alt=&#34;Dinner &amp;amp; Skit&#34;&gt;&lt;br&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/20231208_211744~2.jpg&#34; alt=&#34;Group 2 @ Dinner&#34;&gt;&lt;br&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/IMG_5238~3.jpg&#34; alt=&#34;Some Consortium Attendees @ ICIS 2023&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;script&gt;
+$(&#34;#g1&#34;).justifiedGallery({
+lastRow: &#39;justify&#39;,
+randomize: false,
+});
+&lt;/script&gt; 
+
+&lt;h1 id=&#34;Understanding-the-Consortium&#34;&gt;&lt;a href=&#34;#Understanding-the-Consortium&#34; class=&#34;headerlink&#34; title=&#34;Understanding the Consortium&#34;&gt;&lt;/a&gt;Understanding the Consortium&lt;/h1&gt;&lt;p&gt;The Doctoral Consortium, a prelude to the International Conference on Information Systems (ICIS), serves as a playground for Ph.D. students immersed in the realm of Information Systems research. Here, attendees embark on a journey that extends beyond geographical borders and academic institutions. The consortium offers a unique platform to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Present and Receive Feedback&lt;/strong&gt;: Engage with faculty mentors and peers, presenting research and receiving invaluable feedback to refine scholarly pursuits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Global Perspectives&lt;/strong&gt;: Immerse in a melting pot of ideas by learning about the diverse research endeavors of peers from various corners of the globe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Career Exploration&lt;/strong&gt;: Gain insights into the nuances of academic and research careers, paving the way for a clearer understanding of the professional trajectory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Networking Extravaganza&lt;/strong&gt;: Forge connections and build relationships with fellow researchers and esteemed faculty members from different countries and institutions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;Who’s-in-Charge-in-2023&#34;&gt;&lt;a href=&#34;#Who’s-in-Charge-in-2023&#34; class=&#34;headerlink&#34; title=&#34;Who’s in Charge in 2023?&#34;&gt;&lt;/a&gt;Who’s in Charge in 2023?&lt;/h1&gt;&lt;p&gt;My gratitude goes out to the consortium co-chairs for arranging this enriching encounter and to our renowned faculty mentors, who served as the guiding lights throughout our consortium journey. Moreover, a significant moment was bestowed upon us by our esteemed keynote speaker:&lt;/p&gt;
+&lt;div class=&#34;tabs my-3 is-fullwidth is-boxed&#34;&gt;
+        &lt;ul class=&#34;mx-0 my-0&#34;&gt;
+            &lt;li class=&#34;is-active&#34;&gt;
+          &lt;a href=&#34;#cochair&#34;&gt;
+              &lt;span class=&#34;icon is-small ml-0&#34;&gt;
+                &lt;i class=&#34;fas fa-user-edit&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;Co-chairs
+          &lt;/a&gt;
+      &lt;/li&gt;&lt;li&gt;
+          &lt;a href=&#34;#mentor&#34;&gt;
+              &lt;span class=&#34;icon is-small ml-0&#34;&gt;
+                &lt;i class=&#34;fas fa-people-arrows&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;Faculty Mentors
+          &lt;/a&gt;
+      &lt;/li&gt;&lt;li&gt;
+          &lt;a href=&#34;#keynote&#34;&gt;
+              &lt;span class=&#34;icon is-small ml-0&#34;&gt;
+                &lt;i class=&#34;fas fa-user-tag&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/span&gt;Keynote Speaker
+          &lt;/a&gt;
+      &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;cochair&#34; class=&#34;tab-content&#34;&gt;
+          &lt;table class=&#34;table is-striped is-hoverable&#34;&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Eivor Oborn&lt;/td&gt;
+    &lt;td&gt;Warwick University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Arun Rai&lt;/td&gt;
+    &lt;td&gt;Georgia State University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Sean (Xin) Xu&lt;/td&gt;
+    &lt;td&gt;Tsinghua University&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+      &lt;/div&gt;&lt;div id=&#34;mentor&#34; class=&#34;tab-content is-hidden&#34;&gt;
+          &lt;table class=&#34;table is-striped is-hoverable&#34;&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Balaji Padmanabhan&lt;/td&gt;
+    &lt;td&gt;University of Maryland&lt;/td&gt;
+    &lt;td&gt;Group 1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;D.J. (Dongjun) Wu&lt;/td&gt;
+    &lt;td&gt;Georgia Institute of Technology&lt;/td&gt;
+    &lt;td&gt;Group 1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Wai Fong Boh&lt;/td&gt;
+    &lt;td&gt;Nanyang Technological University&lt;/td&gt;
+    &lt;td&gt;Group 1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Matti Rossi&lt;/td&gt;
+    &lt;td&gt;Aalto University&lt;/td&gt;
+    &lt;td&gt;Group 2&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;T. Ravichandran&lt;/td&gt;
+    &lt;td&gt;Rensselaer Polytechnic Institute&lt;/td&gt;
+    &lt;td&gt;Group 2&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Susan Scott&lt;/td&gt;
+    &lt;td&gt;London School of Economics and Political Science&lt;/td&gt;
+    &lt;td&gt;Group 3&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Zhenhui (Jack) Jiang&lt;/td&gt;
+    &lt;td&gt;University of Hong Kong&lt;/td&gt;
+    &lt;td&gt;Group 3&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Saonee Sarker&lt;/td&gt;
+    &lt;td&gt;Virginia Tech&lt;/td&gt;
+    &lt;td&gt;Group 4&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Stefan Seidel&lt;/td&gt;
+    &lt;td&gt;University of Cologne&lt;/td&gt;
+    &lt;td&gt;Group 4&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Sean (Xin) Xu&lt;/td&gt;
+    &lt;td&gt;Tsinghua University&lt;/td&gt;
+    &lt;td&gt;Group Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Xin Li&lt;/td&gt;
+    &lt;td&gt;City University of Hong Kong&lt;/td&gt;
+    &lt;td&gt;Group Online&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;article class=&#34;message&#34;&gt;
+  &lt;div class=&#34;message-body&#34;&gt;
+    Sorted by group number and name in alphabetical order.
+  &lt;/div&gt;
+&lt;/article&gt;
+
+      &lt;/div&gt;&lt;div id=&#34;keynote&#34; class=&#34;tab-content is-hidden&#34;&gt;
+          &lt;table class=&#34;table is-striped is-hoverable&#34;&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Ramayya Krishnan&lt;/td&gt;
+    &lt;td&gt;Carnegie Mellon University&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+      &lt;/div&gt;
+
+&lt;h1 id=&#34;The-Application-Journey&#34;&gt;&lt;a href=&#34;#The-Application-Journey&#34; class=&#34;headerlink&#34; title=&#34;The Application Journey&#34;&gt;&lt;/a&gt;The Application Journey&lt;/h1&gt;&lt;p&gt;Embarking on this adventure, I discovered that the consortium is highly selective. This year, the ICIS consortium allowed only one student to be nominated from each university or institution. The application process was a thoughtful exercise, requiring the submission of a summary of my current dissertation in the form of a short paper, which details my research question, motivation, methodologies, and contribution to the Information Systems field.&lt;/p&gt;
+&lt;p&gt;However, the eligibility criteria, application procedures, and selection process may vary from year to year and depend on the conference host (such as ICIS, ECIS, AMCIS, or PACIS).&lt;/p&gt;
+&lt;p&gt;The heart of the selection process lies in the hands of the consortium co-chairs and faculty mentors. They meticulously reviewed each submission, considering the depth and potential impact of the research. Out of numerous submissions, only the top 40 students were selected to participate in the consortium, making it a truly prestigious and competitive opportunity.&lt;/p&gt;
+&lt;h2 id=&#34;My-Journey-Timeline&#34;&gt;&lt;a href=&#34;#My-Journey-Timeline&#34; class=&#34;headerlink&#34; title=&#34;My Journey Timeline&#34;&gt;&lt;/a&gt;My Journey Timeline&lt;/h2&gt;&lt;p&gt;Let’s take a glimpse at the key milestones that shaped my path from program nomination to standing at the doors of the consortium.&lt;/p&gt;
+&lt;table class=&#34;table is-striped is-hoverable&#34;&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Date&lt;/th&gt;
+    &lt;th&gt;Milestone&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;May 9&lt;/td&gt;
+    &lt;td&gt;Institutional Nomination Submission&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;May 18&lt;/td&gt;
+    &lt;td&gt;Institutional Nomination Announcement&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;May 29&lt;/td&gt;
+    &lt;td&gt;Consortium Nomination Submission&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;July 29&lt;/td&gt;
+    &lt;td&gt;Nomination Acceptance Notification&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Sep. 12 &lt;/td&gt;
+    &lt;td&gt;Visa Application Submission&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Nov. 29&lt;/td&gt;
+    &lt;td&gt;Visa Approval&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Dec. 2&lt;/td&gt;
+    &lt;td&gt;Visa &amp;amp; Passport Deliver&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Dec. 6&lt;/td&gt;
+    &lt;td&gt;Consortium Start&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Dec. 8&lt;/td&gt;
+    &lt;td&gt;Consortium End&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Dec. 9&lt;/td&gt;
+    &lt;td&gt;Shuttle to ICIS&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;Consortium-Composition&#34;&gt;&lt;a href=&#34;#Consortium-Composition&#34; class=&#34;headerlink&#34; title=&#34;Consortium Composition&#34;&gt;&lt;/a&gt;Consortium Composition&lt;/h1&gt;&lt;p&gt;A typical day in the consortium unfolds in three main parts: (a) presentations and discussions; (b) panels and&amp;#x2F;or keynotes; and (c) networking. While I’ll focus on the first part here, I’ll cover panels and keynote content in the following sections. Networking? Well, you’ve got your own unique way of handling that better than I do!&lt;/p&gt;
+&lt;p&gt;In the first part, we were divided into groups of seven or eight attendees and two or three faculty mentors. Each group member had an hour to present their dissertation research, receive feedback from faculty mentors and fellow group members, and engage in a collective discussion about questions, suggestions, and comments.&lt;/p&gt;
+&lt;p&gt;Before the consortium, I received guidance to prepare slides for a concise ten-minute presentation of my research. The emphasis was on focusing the presentation on questions I grappled with, seeking feedback from mentors and group members. It was assumed that everyone had already reviewed my summary short paper and slides. Additionally, I was expected to familiarize myself with the work of others in my group, preparing constructive feedback to share after their presentations.&lt;/p&gt;
+&lt;p&gt;The time allocation for presentation and discussion was strategically set at ten versus fifty minutes. This ratio favored discussion, proving to be constructive given the preparedness of all participants. The experience contrasted with typical conference presentations where a 20-minute presentation is followed by a brief five-minute discussion. &lt;/p&gt;
+&lt;p&gt;An unexpected and enriching aspect was the exposure to unfamiliar research methodologies through reading my peers’ papers. Yet, I did encounter some challenges. The audience occasionally sought clarification during presentations to offer more insightful feedback. This taught me a crucial lesson – tailoring my presentation to the audience. Making my message intellectually accessible resulted in less confusion and higher engagement, leading to feedback of better quality.&lt;/p&gt;
+&lt;p&gt;Another point of reflection was the wish for electronic feedback from each group member. Juggling notetaking and responding to real-time comments proved challenging. Implementing a system where each member could electronically note and deliver their feedback (e.g., a Word document) would ensure that nothing is missed, and the audience is accountable for carefully reviewing my summary paper.&lt;/p&gt;
+&lt;h2 id=&#34;Timetable-of-A-Typically-Consortium-Day&#34;&gt;&lt;a href=&#34;#Timetable-of-A-Typically-Consortium-Day&#34; class=&#34;headerlink&#34; title=&#34;Timetable of A Typically Consortium Day&#34;&gt;&lt;/a&gt;Timetable of A Typically Consortium Day&lt;/h2&gt;&lt;table class=&#34;table is-striped is-hoverable&#34;&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Time&lt;/th&gt;
+    &lt;th&gt;Activity&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;Breakfast&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;8:20 – 9:20&lt;/td&gt;
+    &lt;td&gt;Panel/Keynote&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;9:30 – 10:30&lt;/td&gt;
+    &lt;td&gt;Presentation &amp;amp; Discussion&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;10:30 – 11:00&lt;/td&gt;
+    &lt;td&gt;Coffee Break&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;11:00 – 12:00&lt;/td&gt;
+    &lt;td&gt;Presentation &amp;amp; Discussion&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;12:00 – 13:30&lt;/td&gt;
+    &lt;td&gt;Lunch&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;13:30 – 14:30&lt;/td&gt;
+    &lt;td&gt;Presentation &amp;amp; Discussion&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;14:40 – 15:40&lt;/td&gt;
+    &lt;td&gt;Presentation &amp;amp; Discussion&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;15:40 – 16:10&lt;/td&gt;
+    &lt;td&gt;Coffee Break&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;16:30 – 17:30&lt;/td&gt;
+    &lt;td&gt;Presentation &amp;amp; Discussion&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;18:30 – 20:30&lt;/td&gt;
+    &lt;td&gt;Dinner&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;Free time&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;Panel-1-Research-and-Teaching&#34;&gt;&lt;a href=&#34;#Panel-1-Research-and-Teaching&#34; class=&#34;headerlink&#34; title=&#34;Panel 1: Research and Teaching&#34;&gt;&lt;/a&gt;Panel 1: Research and Teaching&lt;/h1&gt;&lt;div class=&#34;justified-gallery&#34; id=&#34;g2&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231207_025240061~3.jpg&#34; alt=&#34;Panel 1 Research &amp;amp; Teaching&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;article class=&#34;message is-info&#34;&gt;
+  &lt;div class=&#34;message-body&#34;&gt;
+  Panelists offered their remarks on research and teaching relevant to doctoral students in the final stages of their academic journey. The session provided a chance for participants to engage in a dialogue, ask questions, and gain valuable perspectives from the panel members.
+  &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;h1 id=&#34;Panel-2-Service-and-the-Global-Community&#34;&gt;&lt;a href=&#34;#Panel-2-Service-and-the-Global-Community&#34; class=&#34;headerlink&#34; title=&#34;Panel 2: Service and the Global Community&#34;&gt;&lt;/a&gt;Panel 2: Service and the Global Community&lt;/h1&gt;&lt;div class=&#34;justified-gallery&#34; id=&#34;g3&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231208_042625030~2.jpg&#34; alt=&#34;Panel 2 Service &amp;amp; Global Community&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;article class=&#34;message is-info&#34;&gt;
+  &lt;div class=&#34;message-body&#34;&gt;
+  In the second panel, we explored two key themes: (i) service roles for early career scholars and (ii) regional variations in our global community concerning research, teaching, and service. The panel aimed to shed light on the significance of service in our profession and to foster awareness of the global community, including its inherent norms and emerging trends. Panelists shared their insights, prompting participants to ask questions and engage in a dialogue with the panel members.
+  &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;h1 id=&#34;Keynote-Navigating-the-Nexus-of-People-Policy-and-Technology-Insights-from-My-Academic-Journey&#34;&gt;&lt;a href=&#34;#Keynote-Navigating-the-Nexus-of-People-Policy-and-Technology-Insights-from-My-Academic-Journey&#34; class=&#34;headerlink&#34; title=&#34;Keynote: Navigating the Nexus of People, Policy and Technology: Insights from My Academic Journey&#34;&gt;&lt;/a&gt;Keynote: Navigating the Nexus of People, Policy and Technology: Insights from My Academic Journey&lt;/h1&gt;&lt;div class=&#34;justified-gallery&#34; id=&#34;g4&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/PXL_20231208_034701841.NIGHT~2.jpg&#34; alt=&#34;Ramayya Krishnan @ Keynote&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;article class=&#34;message is-info&#34;&gt;
+  &lt;div class=&#34;message-header&#34;&gt;
+    &lt;p&gt;Keynote Message&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;message-body&#34;&gt;
+      Academic careers offer a rich set of opportunities to make an impact. These include impact on scholarship, on innovation and entrepreneurship,  industry practices, and on public policy. Using my experiences in multiple sectors and the opportunities I have had to contribute to scholarship, business practices, academic administration and public policy, I will offer actionable insights into getting the most out of the interactions that lie at the nexus of people, policy and technology. Examples of past research projects and my perspectives on the opportunities that lie ahead will be used to add substance to the presentation.
+  &lt;/div&gt;
+&lt;/article&gt;
+
+
+&lt;article class=&#34;message message-immersive is-primary&#34;&gt;
+&lt;div class=&#34;message-body&#34;&gt;
+&lt;i class=&#34;fas fa-image&#34;&gt;&lt;/i&gt;
+Thumbnail by DALL·E 3
+&lt;/div&gt;
+&lt;/article&gt;</content>
+        <category term="Ph.D." />
+        <category term="Notes" />
+        <category term="Reflection" />
+        <updated>2023-12-29T06:09:09.000Z</updated>
+    </entry>
+</feed>
