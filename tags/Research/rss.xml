@@ -15,9 +15,8 @@
         <category>Latex</category>
         <category>Packages</category>
         <category>PGF/TikZ</category>
-        <category>JSOM</category>
-        <category>SQL</category>
-        <category>ITSS3300</category>
+        <category>Doctoral Consortium</category>
+        <category>Reflection</category>
         <category>Research</category>
         <category>MIS</category>
         <category>IS</category>
@@ -25,6 +24,9 @@
         <category>Information Systems</category>
         <category>Conference</category>
         <category>Calendar</category>
+        <category>JSOM</category>
+        <category>SQL</category>
+        <category>ITSS3300</category>
         <category>Math</category>
         <category>Preliminary</category>
         <category>Courses</category>
@@ -40,8 +42,6 @@
         <category>联合投稿</category>
         <category>Reading</category>
         <category>Publications</category>
-        <category>Reflection</category>
-        <category>Doctoral Consortium</category>
         <item>
             <guid isPermalink="true">https://blog.yihong-liu.com/2022/03/12/MIS-Conference-Calendar/</guid>
             <title>MIS Conference Calendar</title>
@@ -331,7 +331,7 @@ $$ \begin{aligned}
 
 
 &lt;h2 id=&#34;Online-Updating-for-New-User&#34;&gt;&lt;a href=&#34;#Online-Updating-for-New-User&#34; class=&#34;headerlink&#34; title=&#34;Online Updating for New User&#34;&gt;&lt;/a&gt;Online Updating for New User&lt;/h2&gt;&lt;p&gt;Rendle et al (2008) came with an online updating schema in their regularized kernal matrix factorization model along with stochastic gradient descent. Since BPRH also utilizes SGD in its objective function maximization, we can follow Rendle’s methods to update user and item matrices when a new user or item enters the landscape (cold-start problem). You can see the implementation code at &lt;a href=&#34;https://github.com/liu-yihong/BPRH/blob/master/bprH_gpu.py#L656&#34;&gt;bprH_gpu.py - Line 656&lt;/a&gt;.&lt;/p&gt;
-
+&lt;img src=&#34;/2020/06/26/Understanding-BPR-COFISET-and-BPRH/BPRH-online-updating-min.png&#34; class=&#34;&#34; title=&#34;BPRH User Online Updating Scheme&#34;&gt;
 
 &lt;h2 id=&#34;Python-Implementation&#34;&gt;&lt;a href=&#34;#Python-Implementation&#34; class=&#34;headerlink&#34; title=&#34;Python Implementation&#34;&gt;&lt;/a&gt;Python Implementation&lt;/h2&gt;&lt;p&gt;You can star my BPRH repository and see the details of my BPRH implementation at &lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/liu-yihong/BPRH&#34;&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api/pin/?username=liu-yihong&amp;repo=BPRH&amp;show_owner=true&#34; alt=&#34;BPRH Python Implementation&#34;&gt;&lt;/a&gt;&lt;/p&gt;

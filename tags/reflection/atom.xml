@@ -12,9 +12,8 @@
     <category term="Latex" />
     <category term="Packages" />
     <category term="PGF/TikZ" />
-    <category term="JSOM" />
-    <category term="SQL" />
-    <category term="ITSS3300" />
+    <category term="Doctoral Consortium" />
+    <category term="Reflection" />
     <category term="Research" />
     <category term="MIS" />
     <category term="IS" />
@@ -22,6 +21,9 @@
     <category term="Information Systems" />
     <category term="Conference" />
     <category term="Calendar" />
+    <category term="JSOM" />
+    <category term="SQL" />
+    <category term="ITSS3300" />
     <category term="Math" />
     <category term="Preliminary" />
     <category term="Courses" />
@@ -37,8 +39,6 @@
     <category term="联合投稿" />
     <category term="Reading" />
     <category term="Publications" />
-    <category term="Reflection" />
-    <category term="Doctoral Consortium" />
     <entry>
         <id>https://blog.yihong-liu.com/2023/12/29/Embarking-on-Scholarly-Seas-A-Journey-through-ICIS-2023-Doctoral-Consortium/</id>
         <title>Embarking on Scholarly Seas: A Journey through ICIS 2023 Doctoral Consortium</title>
@@ -615,8 +615,8 @@ Thumbnail by DALL·E 3
 &lt;/div&gt;
 &lt;/article&gt;</content>
         <category term="Ph.D." />
-        <category term="Reflection" />
         <category term="Doctoral Consortium" />
+        <category term="Reflection" />
         <updated>2023-12-29T06:09:09.000Z</updated>
     </entry>
 </feed>

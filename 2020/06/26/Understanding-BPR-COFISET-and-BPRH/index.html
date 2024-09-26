@@ -217,7 +217,7 @@ $$ \begin{aligned}
 
 
 <h2 id="Online-Updating-for-New-User"><a href="#Online-Updating-for-New-User" class="headerlink" title="Online Updating for New User"></a>Online Updating for New User</h2><p>Rendle et al (2008) came with an online updating schema in their regularized kernal matrix factorization model along with stochastic gradient descent. Since BPRH also utilizes SGD in its objective function maximization, we can follow Rendle’s methods to update user and item matrices when a new user or item enters the landscape (cold-start problem). You can see the implementation code at <a target="_blank" rel="noopener" href="https://github.com/liu-yihong/BPRH/blob/master/bprH_gpu.py#L656">bprH_gpu.py - Line 656</a>.</p>
-
+<img src="/2020/06/26/Understanding-BPR-COFISET-and-BPRH/BPRH-online-updating-min.png" class="" title="BPRH User Online Updating Scheme">
 
 <h2 id="Python-Implementation"><a href="#Python-Implementation" class="headerlink" title="Python Implementation"></a>Python Implementation</h2><p>You can star my BPRH repository and see the details of my BPRH implementation at </p>
 <p><a target="_blank" rel="noopener" href="https://github.com/liu-yihong/BPRH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liu-yihong&repo=BPRH&show_owner=true" alt="BPRH Python Implementation"></a></p>
