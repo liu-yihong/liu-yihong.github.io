@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yihong Liu's Blog • All posts by \"education\" tag",
+    "description": "Yihong Liu is a PhD student in the Management Science, Information Systems Concentration at the Naveen Jindal School of Management, UT Dallas.",
+    "home_page_url": "https://blog.yihong-liu.com",
+    "items": [
+        {
+            "id": "https://blog.yihong-liu.com/2026/11/11/Paper-Test-Editor/",
+            "url": "https://blog.yihong-liu.com/2026/11/11/Paper-Test-Editor/",
+            "title": "Paper Test Editor",
+            "date_published": "2026-11-12T04:14:54.000Z",
+            "content_html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><title>Redirecting...</title><link rel=\"canonical\" href=\"http://blog.yihong-liu.com/paper-test-editor/\"><meta http-equiv=\"refresh\" content=\"0; url=http://blog.yihong-liu.com/paper-test-editor/\"></head></html>",
+            "tags": [
+                "Education",
+                "Exam Generator"
+            ]
+        }
+    ]
+}
